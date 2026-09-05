@@ -1,0 +1,551 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Guys, today we will see how much is the strength in it."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 2.0,
+            "end": 5.0,
+            "text": " In exercise 7, you have to solve a problem"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 5.0,
+            "end": 9.700000000000001,
+            "text": " in which you have to clear the clutter spread in a folder."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 9.700000000000001,
+            "end": 11.3,
+            "text": " And how will you do this?"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 11.3,
+            "end": 12.6,
+            "text": " With the help of OS module."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 12.6,
+            "end": 16.0,
+            "text": " Now I will take you to the computer screen and tell you the exact problem statement."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 16.0,
+            "end": 17.0,
+            "text": " Let's get started."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 26.5,
+            "end": 28.400000000000002,
+            "text": " So, in this exercise, what you have to do is"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 28.4,
+            "end": 30.4,
+            "text": " write a program with the help of OS module"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 30.4,
+            "end": 32.9,
+            "text": " which will clean the clutter in your computer."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 32.9,
+            "end": 35.9,
+            "text": " Now by cleaning the clutter, I mean that"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 35.9,
+            "end": 37.9,
+            "text": " let's say you have a folder in which"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 37.9,
+            "end": 40.9,
+            "text": " 0.png or random some name.png"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 40.9,
+            "end": 42.9,
+            "text": " there are many png files in it."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 42.9,
+            "end": 45.4,
+            "text": " Now you want that as soon as your program runs,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 45.4,
+            "end": 48.9,
+            "text": " all your files will change their names."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 48.9,
+            "end": 52.4,
+            "text": " 0.png, 1.png or you can start with 1.png"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 52.4,
+            "end": 54.4,
+            "text": " all the way till n.png"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 54.4,
+            "end": 57.4,
+            "text": " where n is the number of png files in that folder."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 57.4,
+            "end": 60.4,
+            "text": " So let's say you have this.png"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 60.4,
+            "end": 62.4,
+            "text": " this is a file."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 62.4,
+            "end": 64.4,
+            "text": " This.png is a file."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 64.4,
+            "end": 66.4,
+            "text": " This.png is a file."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 66.4,
+            "end": 68.4,
+            "text": " Design.png is a file."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 69.4,
+            "end": 72.4,
+            "text": " And let's say you have name.png is a file."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 72.4,
+            "end": 74.4,
+            "text": " So what your program will do is scan all these files"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 74.4,
+            "end": 76.4,
+            "text": " and rename them in this way."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 76.4,
+            "end": 78.4,
+            "text": " Rename any file as 1.png."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 78.4,
+            "end": 81.4,
+            "text": " Then after this, rename the other file as 2.png."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 81.4,
+            "end": 83.4,
+            "text": " And in this way, it will clear all the png files"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 83.4,
+            "end": 85.4,
+            "text": " and give such good names."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 85.4,
+            "end": 87.4,
+            "text": " Give this 3.png"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 87.4,
+            "end": 89.4,
+            "text": " and give this 4.png."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 89.4,
+            "end": 92.4,
+            "text": " Okay, now you understood what I am trying to say here."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 92.4,
+            "end": 94.4,
+            "text": " Basically, what we have to do is"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 94.4,
+            "end": 96.4,
+            "text": " clear the clutter"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 96.4,
+            "end": 98.4,
+            "text": " rename it and make it like this."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 98.4,
+            "end": 100.4,
+            "text": " Now what you have to do is"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 100.4,
+            "end": 102.4,
+            "text": " write its function. Don't do it like this."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 104.4,
+            "end": 106.4,
+            "text": " I will write here for example."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 106.4,
+            "end": 109.4,
+            "text": " Write function because your function will take .png as an argument."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 109.4,
+            "end": 111.4,
+            "text": " .png means it will take file format."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 111.4,
+            "end": 113.4,
+            "text": " And when this file format will reach the function,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 113.4,
+            "end": 118.4,
+            "text": " then the function will know which files to rename in this folder."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 118.4,
+            "end": 121.4,
+            "text": " Okay, like if you pass .png to that function,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 121.4,
+            "end": 124.4,
+            "text": " then it will make all the png files like this."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 124.4,
+            "end": 126.4,
+            "text": " If you do .pdf,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 126.4,
+            "end": 128.4,
+            "text": " then it will make all the pdf files like this."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 128.4,
+            "end": 131.4,
+            "text": " If you do this for webp files,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 131.4,
+            "end": 134.4,
+            "text": " then it will make webp files like this for you."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 134.4,
+            "end": 138.4,
+            "text": " So you will have a very good granular control."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 138.4,
+            "end": 140.4,
+            "text": " You know how you have to change,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 140.4,
+            "end": 142.4,
+            "text": " how you can do it,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 142.4,
+            "end": 144.4,
+            "text": " you will know all this."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 144.4,
+            "end": 146.4,
+            "text": " So write, use the OS model."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 146.4,
+            "end": 149.4,
+            "text": " OS.rename method. I won't give much spoilers of the movie."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 149.4,
+            "end": 151.4,
+            "text": " Watch the movie yourself. Enjoy yourself."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 151.4,
+            "end": 153.4,
+            "text": " I don't want to spoil your fun."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 153.4,
+            "end": 156.4,
+            "text": " Okay, so I will meet you in the solution video."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 156.4,
+            "end": 160.4,
+            "text": " And I will show you the program by solving it there."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 160.4,
+            "end": 163.4,
+            "text": " And this time I am going to give shoutouts in different ways."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 163.4,
+            "end": 165.4,
+            "text": " So it will be a lot of fun."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 165.4,
+            "end": 167.4,
+            "text": " If you have not accessed the playlist yet,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 167.4,
+            "end": 169.4,
+            "text": " then you have to access it."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 169.4,
+            "end": 171.4,
+            "text": " Put a review in the video."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 171.4,
+            "end": 173.4,
+            "text": " Put a review."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 173.4,
+            "end": 175.4,
+            "text": " Put a comment here that how is this course?"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 175.4,
+            "end": 177.4,
+            "text": " You have seen so many videos, you know that"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 177.4,
+            "end": 179.4,
+            "text": " how did 100 days of code go up to 68 videos?"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 179.4,
+            "end": 181.4,
+            "text": " How did you understand?"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 181.4,
+            "end": 183.4,
+            "text": " How much fun did you have?"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 183.4,
+            "end": 185.4,
+            "text": " Write everything."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 185.4,
+            "end": 187.4,
+            "text": " Now if you write,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 187.4,
+            "end": 189.4,
+            "text": " then whoever is new to this course will get a lot of help."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 189.4,
+            "end": 191.4,
+            "text": " That's all for now."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 191.4,
+            "end": 193.4,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 193.4,
+            "end": 195.4,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 199.4,
+            "end": 201.4,
+            "text": " Thank you so much."
+        }
+    ],
+    "text": " Guys, today we will see how much is the strength in it. In exercise 7, you have to solve a problem in which you have to clear the clutter spread in a folder. And how will you do this? With the help of OS module. Now I will take you to the computer screen and tell you the exact problem statement. Let's get started. So, in this exercise, what you have to do is write a program with the help of OS module which will clean the clutter in your computer. Now by cleaning the clutter, I mean that let's say you have a folder in which 0.png or random some name.png there are many png files in it. Now you want that as soon as your program runs, all your files will change their names. 0.png, 1.png or you can start with 1.png all the way till n.png where n is the number of png files in that folder. So let's say you have this.png this is a file. This.png is a file. This.png is a file. Design.png is a file. And let's say you have name.png is a file. So what your program will do is scan all these files and rename them in this way. Rename any file as 1.png. Then after this, rename the other file as 2.png. And in this way, it will clear all the png files and give such good names. Give this 3.png and give this 4.png. Okay, now you understood what I am trying to say here. Basically, what we have to do is clear the clutter rename it and make it like this. Now what you have to do is write its function. Don't do it like this. I will write here for example. Write function because your function will take .png as an argument. .png means it will take file format. And when this file format will reach the function, then the function will know which files to rename in this folder. Okay, like if you pass .png to that function, then it will make all the png files like this. If you do .pdf, then it will make all the pdf files like this. If you do this for webp files, then it will make webp files like this for you. So you will have a very good granular control. You know how you have to change, how you can do it, you will know all this. So write, use the OS model. OS.rename method. I won't give much spoilers of the movie. Watch the movie yourself. Enjoy yourself. I don't want to spoil your fun. Okay, so I will meet you in the solution video. And I will show you the program by solving it there. And this time I am going to give shoutouts in different ways. So it will be a lot of fun. If you have not accessed the playlist yet, then you have to access it. Put a review in the video. Put a review. Put a comment here that how is this course? You have seen so many videos, you know that how did 100 days of code go up to 68 videos? How did you understand? How much fun did you have? Write everything. Now if you write, then whoever is new to this course will get a lot of help. That's all for now. Thank you so much for watching this video. And I will see you next time. Thank you so much."
+}

@@ -1,0 +1,7 @@
+I'd be happy to help with your question.
+
+Regarding your query about KBC being taught in this course, according to our course material, Kaun Banega Crorepati (KBC) is covered in a video titled "Kaun Banega Crorepati (KBC)". This particular video is numbered 3 and covers how to create a program that displays questions like those in KBC. Specifically, you can find the relevant section starting from timestamp 10.64 seconds up until 34.72 seconds.
+
+If you want to access this content, I would suggest going to our course playlist and opening the third video. You can then skip to the 10.64-second mark to start learning about creating a KBC-like program.
+
+If you have any further questions or need clarification on anything else related to our course material, feel free to ask!

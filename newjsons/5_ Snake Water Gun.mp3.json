@@ -1,0 +1,250 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 0.0,
+            "end": 14.16,
+            "text": " Guys, you must have heard about Snake Water Gun. This is a game that we all used to play in our childhood. There is a game called Rock Paper Scissors that we used to play. What happens in this is that a person will make a snake, water gun, or he will make a snake, or he will make water, or he will make a gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 14.16,
+            "end": 25.2,
+            "text": " And the gun kills the snake. The snake drinks the water. And the water spoils the gun. So, according to this, the player gets points for whatever he made randomly. In this video, I want to give you an exercise."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 25.2,
+            "end": 46.72,
+            "text": " I want to give you a challenge. I want to see how much courage you have in this. Let's go to the computer screen and see the problem statement first. And then we will see who solves it the best and first. So, I have come here in my childhood."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 46.72,
+            "end": 57.04,
+            "text": " Sorry, not childhood, in my 55's. Okay? Not childhood, 55. Okay, so what you have to do here is to make a snake, water gun game. It's very simple. I will give you some hints before going here."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 57.04,
+            "end": 70.44,
+            "text": " Okay? I will not go like this that make a snake, water gun. First of all, you will take input from the user that what he wants to choose from snake, water, or gun. Then after that, the computer will choose that it will be automatic from snake, water, or gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 70.44,
+            "end": 84.75999999999999,
+            "text": " It will not be in your control. And after that, when the computer chose snake, water, or gun, then your input will be that it can be snake, water, or gun. And then the other's input will be that it can be snake, water, or gun. Now, let's say this is the computer."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 84.75999999999999,
+            "end": 94.75999999999999,
+            "text": " Oops! I want to show you something. Let me make a new file here. I actually write this thing in main.py and I will make it sit. Let's say this is a computer."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 94.75999999999999,
+            "end": 104.8,
+            "text": " Let's say the computer chose snake. Okay? Let's say 1 for snake. I will do one thing, I will call it minus 1, 0, and 1. Now I will explain to you what it means."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 104.8,
+            "end": 112.52,
+            "text": " It simply means that look, minus 1 means it is snake. Okay? I am just here"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 112.52,
+            "end": 125.04,
+            "text": " doing a little bit of brainstorming. I am just thinking out loud in front of you. This is water and this is gun. Now, let's write the player's input here. Now, what can the player do?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 125.04,
+            "end": 137.04000000000002,
+            "text": " If snake is minus 1, what can the player do? Player can be 1. And along with that, what else can the player do with minus 1? It can be 0 or minus 1."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 137.04000000000002,
+            "end": 146.04,
+            "text": " Okay? Nothing more than this can happen. Or it can be minus 1. Okay? Now, what I have to do is, if computer is minus 1, that is, computer is snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 146.04,
+            "end": 155.04,
+            "text": " and our player is 1, that is, gun, then who will win? You tell me. Who will win between snake and gun? Obviously, gun will win. Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 155.04,
+            "end": 163.04,
+            "text": " Who will win between water and gun? Obviously, water will win. Okay? And who will win between snake and water? Snake will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 163.04,
+            "end": 173.04,
+            "text": " Okay? So, can I make a matrix like this? You tell me. I wrote minus 1 here. If you have read matrix and determinants, then you know what I am talking about."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 173.04,
+            "end": 182.04,
+            "text": " Now, who will win? See, I want to tell you again that this is our snake, this is our water here, this is water and this is our gun. Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 182.04,
+            "end": 190.04,
+            "text": " Now, see, if one person took snake, okay? If other person also took snake, then what will happen? This will be draw. Okay? So, this will be draw. I will write this as D."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 190.04,
+            "end": 198.04,
+            "text": " If one person took water and one person took snake, then what will happen? Snake will drink the water. So, who will win? You will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 198.04,
+            "end": 205.04,
+            "text": " So, this will be win for you. Okay? After this, if you took snake and computer took gun, then what will it do?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 205.04,
+            "end": 213.04,
+            "text": " It will blow you up. Okay? So, this will be lose for you. Similarly, what will happen here? This will be draw on its diagonal."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 213.04,
+            "end": 221.04,
+            "text": " But you will see here that if you took water and gun came in front, then you will win. So, this will be win for you again. Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 221.04,
+            "end": 229.04,
+            "text": " Similarly, if computer took snake, you took water, then what will happen? If computer took snake, you took water, then computer will drink you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 229.04,
+            "end": 236.04,
+            "text": " So, this will be lose for you. But if gun came, you will blow it up. So, this will be win for you. Similarly, if computer took water,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 236.04,
+            "end": 243.04,
+            "text": " you took gun, then your gun will be drowned. So, this will be lose for you. Okay? And here, what is the number of wins"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 243.04,
+            "end": 250.04,
+            "text": " and number of loses equal? Yes, okay. Three wins, three loses. Now, if we make this here, now suppose I indicate win"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 250.04,
+            "end": 260.03999999999996,
+            "text": " with minus one, and I indicate lose, sorry, I indicate win with one, I indicate loss with minus one, and I indicate draw with zero."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 260.04,
+            "end": 270.04,
+            "text": " So, I can make a mathematical matrix here. And this can be made in the form of a two-dimensional list. And you can easily find out this thing that what is loss,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 270.04,
+            "end": 280.04,
+            "text": " what is win. So, you can, in fact, not make it minus one, zero, one, but zero, one, two, so that it can fit in your list."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 280.04,
+            "end": 290.04,
+            "text": " So, I just want to say that, there are many ways to solve problems. There are mathematical ways also. You can do it by simply putting if-else. You can also do it by putting simple if-else."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 290.04,
+            "end": 300.04,
+            "text": " But I just want to tell you that if we do it in this way, mathematically, then when things are complex, then it becomes easy for us."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 300.04,
+            "end": 310.04,
+            "text": " By the way, I leave it to you how you do this exercise. But I just wanted to give you a perspective. And I hope you will benefit from it. That's all for now."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 310.04,
+            "end": 320.04,
+            "text": " I will meet you in the solution. And I want everyone to solve it. Because it will be fun to play this game If you haven't accessed the playlist yet, then do access it."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 320.04,
+            "end": 330.04,
+            "text": " And also, do put a review of this course in the first video. Because if anyone starts watching this, then I want him to know what he is going to get in this course. So, that's all for now."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 330.04,
+            "end": 352.04,
+            "text": " Thank you so much for watching this video. And I will see you next time. Music. Music. Music."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 352.04,
+            "end": 354.04,
+            "text": " Music."
+        }
+    ],
+    "text": " Guys, you must have heard about Snake Water Gun. This is a game that we all used to play in our childhood. There is a game called Rock Paper Scissors that we used to play. What happens in this is that a person will make a snake, water gun, or he will make a snake, or he will make water, or he will make a gun. And the gun kills the snake. The snake drinks the water. And the water spoils the gun. So, according to this, the player gets points for whatever he made randomly. In this video, I want to give you an exercise. I want to give you a challenge. I want to see how much courage you have in this. Let's go to the computer screen and see the problem statement first. And then we will see who solves it the best and first. So, I have come here in my childhood. Sorry, not childhood, in my 55's. Okay? Not childhood, 55. Okay, so what you have to do here is to make a snake, water gun game. It's very simple. I will give you some hints before going here. Okay? I will not go like this that make a snake, water gun. First of all, you will take input from the user that what he wants to choose from snake, water, or gun. Then after that, the computer will choose that it will be automatic from snake, water, or gun. It will not be in your control. And after that, when the computer chose snake, water, or gun, then your input will be that it can be snake, water, or gun. And then the other's input will be that it can be snake, water, or gun. Now, let's say this is the computer. Oops! I want to show you something. Let me make a new file here. I actually write this thing in main.py and I will make it sit. Let's say this is a computer. Let's say the computer chose snake. Okay? Let's say 1 for snake. I will do one thing, I will call it minus 1, 0, and 1. Now I will explain to you what it means. It simply means that look, minus 1 means it is snake. Okay? I am just here doing a little bit of brainstorming. I am just thinking out loud in front of you. This is water and this is gun. Now, let's write the player's input here. Now, what can the player do? If snake is minus 1, what can the player do? Player can be 1. And along with that, what else can the player do with minus 1? It can be 0 or minus 1. Okay? Nothing more than this can happen. Or it can be minus 1. Okay? Now, what I have to do is, if computer is minus 1, that is, computer is snake, and our player is 1, that is, gun, then who will win? You tell me. Who will win between snake and gun? Obviously, gun will win. Okay? Who will win between water and gun? Obviously, water will win. Okay? And who will win between snake and water? Snake will win. Okay? So, can I make a matrix like this? You tell me. I wrote minus 1 here. If you have read matrix and determinants, then you know what I am talking about. Now, who will win? See, I want to tell you again that this is our snake, this is our water here, this is water and this is our gun. Okay? Now, see, if one person took snake, okay? If other person also took snake, then what will happen? This will be draw. Okay? So, this will be draw. I will write this as D. If one person took water and one person took snake, then what will happen? Snake will drink the water. So, who will win? You will win. So, this will be win for you. Okay? After this, if you took snake and computer took gun, then what will it do? It will blow you up. Okay? So, this will be lose for you. Similarly, what will happen here? This will be draw on its diagonal. But you will see here that if you took water and gun came in front, then you will win. So, this will be win for you again. Okay? Similarly, if computer took snake, you took water, then what will happen? If computer took snake, you took water, then computer will drink you. So, this will be lose for you. But if gun came, you will blow it up. So, this will be win for you. Similarly, if computer took water, you took gun, then your gun will be drowned. So, this will be lose for you. Okay? And here, what is the number of wins and number of loses equal? Yes, okay. Three wins, three loses. Now, if we make this here, now suppose I indicate win with minus one, and I indicate lose, sorry, I indicate win with one, I indicate loss with minus one, and I indicate draw with zero. So, I can make a mathematical matrix here. And this can be made in the form of a two-dimensional list. And you can easily find out this thing that what is loss, what is win. So, you can, in fact, not make it minus one, zero, one, but zero, one, two, so that it can fit in your list. So, I just want to say that, there are many ways to solve problems. There are mathematical ways also. You can do it by simply putting if-else. You can also do it by putting simple if-else. But I just want to tell you that if we do it in this way, mathematically, then when things are complex, then it becomes easy for us. By the way, I leave it to you how you do this exercise. But I just wanted to give you a perspective. And I hope you will benefit from it. That's all for now. I will meet you in the solution. And I want everyone to solve it. Because it will be fun to play this game If you haven't accessed the playlist yet, then do access it. And also, do put a review of this course in the first video. Because if anyone starts watching this, then I want him to know what he is going to get in this course. So, that's all for now. Thank you so much for watching this video. And I will see you next time. Music. Music. Music. Music."
+}

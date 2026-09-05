@@ -1,0 +1,96 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 0.0,
+            "end": 15.0,
+            "text": " so guys today is our day 76 and in day 76 i am going to give you an exercise in which you have to manipulate pdf files and you have to do this by using pypdf module so we have a module named pypdf"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 15.0,
+            "end": 30.0,
+            "text": " with the help of which you can merge pdf files so let's say i gave you 5-6 pdf files you can merge them in one and if you want you can add some other functionality to it but here you have to make the merging functionality"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 30.0,
+            "end": 45.0,
+            "text": " so what you have to do is let's say you have 7 pdf files so how to merge those 7 pdf files in one pdf you have to write this program now you will ask in which order you have to merge"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 45.0,
+            "end": 60.0,
+            "text": " so let's do one thing we will maintain the alphabetic sorting and according to that you can do the sorting but if you want to take a particular type of pdf file then you can take that too"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 60.0,
+            "end": 75.0,
+            "text": " but for now we will keep this question simple i want you to explore pypdf which is a very amazing open source pure python pdf library you can do splitting, merging, cropping and encrypting pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 75.0,
+            "end": 90.0,
+            "text": " i have used it a lot and i have given projects to many clients i have earned a lot of money from this library because when someone has to make a piece of software and they are only interested in their work like i had a client"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 90.0,
+            "end": 105.0,
+            "text": " he made a pdf file it was a big thing for him to merge 3 pdf files and it happens that if this module is not there and we write 3-4 lines of code in python then things become easy for us"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 105.0,
+            "end": 120.0,
+            "text": " but for that person this is a big thing i make a bat file which invokes my python file i install python in the client's computer or i make an api for it and i host that api on a server"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 120.0,
+            "end": 135.0,
+            "text": " and i tell it that you have to keep this server up or if you don't want to keep that server up then i install python in their computer and make an automated script for it or there is a thing called portable python"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 135.0,
+            "end": 150.0,
+            "text": " which becomes a whole exe of python but for now you have to solve this exercise and whoever solves it i will give him a shoutout so guys i am making this video from rapnet's mobile app and i am actually traveling"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 150.0,
+            "end": 165.0,
+            "text": " and the schedule is very busy but i don't want to miss 100 days of code so i am making this video from rapnet's mobile app so guys do explore pypdf there are things written in its documentation"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 165.0,
+            "end": 180.0,
+            "text": " if you go in its documentation then you will learn a lot of things i am opening the read the docs of pypdf in my phone and you can see here that pypdf2 is a free and open source library there are many examples in it"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 180.0,
+            "end": 195.0,
+            "text": " so at least merging is a very simple thing you can solve this question and i want you to solve it so guys thank you so much for watching this video and i will see you next time"
+        }
+    ],
+    "text": " so guys today is our day 76 and in day 76 i am going to give you an exercise in which you have to manipulate pdf files and you have to do this by using pypdf module so we have a module named pypdf with the help of which you can merge pdf files so let's say i gave you 5-6 pdf files you can merge them in one and if you want you can add some other functionality to it but here you have to make the merging functionality so what you have to do is let's say you have 7 pdf files so how to merge those 7 pdf files in one pdf you have to write this program now you will ask in which order you have to merge so let's do one thing we will maintain the alphabetic sorting and according to that you can do the sorting but if you want to take a particular type of pdf file then you can take that too but for now we will keep this question simple i want you to explore pypdf which is a very amazing open source pure python pdf library you can do splitting, merging, cropping and encrypting pdf files i have used it a lot and i have given projects to many clients i have earned a lot of money from this library because when someone has to make a piece of software and they are only interested in their work like i had a client he made a pdf file it was a big thing for him to merge 3 pdf files and it happens that if this module is not there and we write 3-4 lines of code in python then things become easy for us but for that person this is a big thing i make a bat file which invokes my python file i install python in the client's computer or i make an api for it and i host that api on a server and i tell it that you have to keep this server up or if you don't want to keep that server up then i install python in their computer and make an automated script for it or there is a thing called portable python which becomes a whole exe of python but for now you have to solve this exercise and whoever solves it i will give him a shoutout so guys i am making this video from rapnet's mobile app and i am actually traveling and the schedule is very busy but i don't want to miss 100 days of code so i am making this video from rapnet's mobile app so guys do explore pypdf there are things written in its documentation if you go in its documentation then you will learn a lot of things i am opening the read the docs of pypdf in my phone and you can see here that pypdf2 is a free and open source library there are many examples in it so at least merging is a very simple thing you can solve this question and i want you to solve it so guys thank you so much for watching this video and i will see you next time"
+}

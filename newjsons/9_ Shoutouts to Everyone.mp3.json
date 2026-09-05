@@ -1,0 +1,103 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 0.0,
+            "end": 19.6,
+            "text": " Guys, today's exercise is called shoutouts to everyone and I'll tell you why I said that Everything will be clear after seeing the question of this exercise Let's go to the computer screen and let's get started Intro"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 19.6,
+            "end": 38.8,
+            "text": " So guys, I'm very excited about today's question because it's a big thing that I can't give shoutouts to everyone I don't like it at all when I can't give shoutouts to people because I know that everyone works hard and can't get a shoutout So what I did today is that I thought why not write a program"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 38.8,
+            "end": 53.8,
+            "text": " with which we can give shoutouts to everyone So what you have to do in this exercise, I'll tell you You have to do your work and then I'll show you my magic in its solution I'll give shoutouts to everyone with the help of this program, okay? So see what we have to do, you have to write a program"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 53.8,
+            "end": 74.8,
+            "text": " which will pronounce some names using Win32 API Now I'm in Mac, you may be in Linux or any other operating system You have to figure out some other way to do it, okay? But in Windows, I'll tell you that Sapi, Voice, Windows, Python, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 74.8,
+            "end": 92.8,
+            "text": " Why did I write Sapi, Voice, Windows, Python? What happens is that Python text to speech, one minute It becomes very easy to do text to speech, I'll show you You will get its program, okay? There is a package called PyWin32, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 92.8,
+            "end": 110.8,
+            "text": " And with its help, you can pronounce it like this And what will happen is that you can pronounce it with the help of Windows built-in voice So you will figure out all this yourself, I won't tell you what to do from where, what not to do Win32com.client, what it does, what it doesn't do, you have to see all this"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 110.8,
+            "end": 128.8,
+            "text": " And after figuring it out, you have to tell me, okay? That whether you were able to make this program or not So here, once L is equal to Rahul, Nishant, Harry is written So your program will pronounce something like this Shoutout to Rahul, Shoutout to Nishant, Shoutout to Harry"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 128.8,
+            "end": 142.8,
+            "text": " By doing this, shoutout will be given to everyone I have to give this list manually, okay? So I have to put this list, but then the shoutouts will automatically give it to everyone, okay? So shoutouts will be given to everyone this time"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 142.8,
+            "end": 156.8,
+            "text": " So don't miss anyone and I will put its solution very soon I will put the solution soon because everyone will get a shoutout in this So I will put the solution soon, okay? So you must post your solution for this And I hope everyone understood the question"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 156.8,
+            "end": 171.8,
+            "text": " One more thing to do, you have to solve this exercise Along with that, go to the first video First of all, access the playlist and go to the first video What you have to do is write a review here, okay? You have to write a review, give 5 stars"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 171.8,
+            "end": 188.8,
+            "text": " How are you feeling? Because now we are almost going towards completion of 100 days And I am not saying that your learning of Python will end You will keep learning, even I keep learning 50 things in today's date And I am open to learning and that increases your skills the most"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 188.8,
+            "end": 202.8,
+            "text": " When you are open to learning things, okay? So you will keep learning But now you tell me how you feel in this course Write a review for those people who are going to start this course So that they don't have to think at all the second time before coming to this course"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 202.8,
+            "end": 224.8,
+            "text": " So that's it for now in this video guys I am waiting for your solution And I will see you next time Thank you for watching it And I will see you next time"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 224.8,
+            "end": 226.8,
+            "text": " Bye"
+        }
+    ],
+    "text": " Guys, today's exercise is called shoutouts to everyone and I'll tell you why I said that Everything will be clear after seeing the question of this exercise Let's go to the computer screen and let's get started Intro So guys, I'm very excited about today's question because it's a big thing that I can't give shoutouts to everyone I don't like it at all when I can't give shoutouts to people because I know that everyone works hard and can't get a shoutout So what I did today is that I thought why not write a program with which we can give shoutouts to everyone So what you have to do in this exercise, I'll tell you You have to do your work and then I'll show you my magic in its solution I'll give shoutouts to everyone with the help of this program, okay? So see what we have to do, you have to write a program which will pronounce some names using Win32 API Now I'm in Mac, you may be in Linux or any other operating system You have to figure out some other way to do it, okay? But in Windows, I'll tell you that Sapi, Voice, Windows, Python, okay? Why did I write Sapi, Voice, Windows, Python? What happens is that Python text to speech, one minute It becomes very easy to do text to speech, I'll show you You will get its program, okay? There is a package called PyWin32, okay? And with its help, you can pronounce it like this And what will happen is that you can pronounce it with the help of Windows built-in voice So you will figure out all this yourself, I won't tell you what to do from where, what not to do Win32com.client, what it does, what it doesn't do, you have to see all this And after figuring it out, you have to tell me, okay? That whether you were able to make this program or not So here, once L is equal to Rahul, Nishant, Harry is written So your program will pronounce something like this Shoutout to Rahul, Shoutout to Nishant, Shoutout to Harry By doing this, shoutout will be given to everyone I have to give this list manually, okay? So I have to put this list, but then the shoutouts will automatically give it to everyone, okay? So shoutouts will be given to everyone this time So don't miss anyone and I will put its solution very soon I will put the solution soon because everyone will get a shoutout in this So I will put the solution soon, okay? So you must post your solution for this And I hope everyone understood the question One more thing to do, you have to solve this exercise Along with that, go to the first video First of all, access the playlist and go to the first video What you have to do is write a review here, okay? You have to write a review, give 5 stars How are you feeling? Because now we are almost going towards completion of 100 days And I am not saying that your learning of Python will end You will keep learning, even I keep learning 50 things in today's date And I am open to learning and that increases your skills the most When you are open to learning things, okay? So you will keep learning But now you tell me how you feel in this course Write a review for those people who are going to start this course So that they don't have to think at all the second time before coming to this course So that's it for now in this video guys I am waiting for your solution And I will see you next time Thank you for watching it And I will see you next time Bye"
+}

@@ -1,0 +1,327 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 0.0,
+            "end": 3.36,
+            "text": " This exercise is going to be amazing because today we are going to make"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 3.36,
+            "end": 4.96,
+            "text": " Who will be a millionaire?"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 4.96,
+            "end": 7.04,
+            "text": " If you have seen who will be a millionaire,"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 7.04,
+            "end": 8.96,
+            "text": " then you will know what I am talking about."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 8.96,
+            "end": 10.64,
+            "text": " With the help of Python programming,"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 10.64,
+            "end": 13.92,
+            "text": " we are going to see how to make a millionaire."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 13.92,
+            "end": 16.4,
+            "text": " Let's go to the computer screen and let's get started."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 25.76,
+            "end": 27.2,
+            "text": " So today's exercise is that"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 27.2,
+            "end": 32.0,
+            "text": " create a program capable of displaying questions to the user like KBC."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 32.0,
+            "end": 34.72,
+            "text": " So you have to make the user like a millionaire."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 34.72,
+            "end": 39.2,
+            "text": " And you have to keep the questions in front of the user and the user will answer them."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 39.2,
+            "end": 43.519999999999996,
+            "text": " And finally, you have to feed them KBC that how much money they have to win,"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 43.519999999999996,
+            "end": 45.2,
+            "text": " how much they have to lose, you have to write its logic."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 45.2,
+            "end": 49.36,
+            "text": " Okay, so what you have to do is use list data type."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 50.32,
+            "end": 57.44,
+            "text": " What you have to do is use list data type to store the questions and their answers."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 58.08,
+            "end": 59.76,
+            "text": " Okay, I am in fact, so correct answers."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 61.04,
+            "end": 64.4,
+            "text": " Now how do you manage questions and correct answers are completely up to you."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 64.4,
+            "end": 67.03999999999999,
+            "text": " Okay, I will do it now."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 67.2,
+            "end": 81.60000000000001,
+            "text": " I will write that display the final amount the person is taking home after playing the game."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 81.60000000000001,
+            "end": 84.96000000000001,
+            "text": " Okay, so who will make you a millionaire in Python?"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 84.96000000000001,
+            "end": 86.48,
+            "text": " It will be fun, it will be a lot of fun."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 86.48,
+            "end": 87.68,
+            "text": " I am telling you the truth, it will be a lot of fun."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 88.48,
+            "end": 89.92,
+            "text": " So you guys must try it."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 89.92,
+            "end": 92.88000000000001,
+            "text": " Okay, you have the creative freedom of the program."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 92.88000000000001,
+            "end": 96.08000000000001,
+            "text": " Okay, you make the program as you want."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 96.08,
+            "end": 98.08,
+            "text": " Okay, write the program as you want."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 98.08,
+            "end": 103.12,
+            "text": " Okay, you think I have to write the index of correct answers, write that."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 103.12,
+            "end": 106.08,
+            "text": " You think you have to make a list of lists, make that."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 106.08,
+            "end": 110.08,
+            "text": " If you think that you have to run the loop and run all one by one,"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 110.08,
+            "end": 112.47999999999999,
+            "text": " by giving all the questions, that is also fine."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 112.47999999999999,
+            "end": 116.56,
+            "text": " You think you have to randomly remove questions from the list, that is also fine."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 116.56,
+            "end": 117.84,
+            "text": " I am totally fine with anything."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 118.4,
+            "end": 119.68,
+            "text": " But do try this out."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 119.68,
+            "end": 123.36,
+            "text": " That's why I am not imposing any hard and fast rule here that you have to do this."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 123.36,
+            "end": 124.4,
+            "text": " You have to do this."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 124.4,
+            "end": 126.32000000000001,
+            "text": " It is up to you how your brain works."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 126.32000000000001,
+            "end": 127.28,
+            "text": " You make it."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 127.28,
+            "end": 131.04000000000002,
+            "text": " But it will be a lot of fun because when it comes to who will be a millionaire,"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 131.04000000000002,
+            "end": 132.08,
+            "text": " it is a different feeling."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 132.08,
+            "end": 134.56,
+            "text": " Okay, you are playing your program yourself."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 134.56,
+            "end": 135.84,
+            "text": " Okay, the game is fun."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 135.84,
+            "end": 138.32,
+            "text": " Okay, so you guys must try this."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 138.32,
+            "end": 141.28,
+            "text": " If someone has not accessed the playlist, then definitely access it."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 141.28,
+            "end": 142.88,
+            "text": " That's all for now, guys."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 142.88,
+            "end": 144.96,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 144.96,
+            "end": 147.76,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " This exercise is going to be amazing because today we are going to make Who will be a millionaire? If you have seen who will be a millionaire, then you will know what I am talking about. With the help of Python programming, we are going to see how to make a millionaire. Let's go to the computer screen and let's get started. So today's exercise is that create a program capable of displaying questions to the user like KBC. So you have to make the user like a millionaire. And you have to keep the questions in front of the user and the user will answer them. And finally, you have to feed them KBC that how much money they have to win, how much they have to lose, you have to write its logic. Okay, so what you have to do is use list data type. What you have to do is use list data type to store the questions and their answers. Okay, I am in fact, so correct answers. Now how do you manage questions and correct answers are completely up to you. Okay, I will do it now. I will write that display the final amount the person is taking home after playing the game. Okay, so who will make you a millionaire in Python? It will be fun, it will be a lot of fun. I am telling you the truth, it will be a lot of fun. So you guys must try it. Okay, you have the creative freedom of the program. Okay, you make the program as you want. Okay, write the program as you want. Okay, you think I have to write the index of correct answers, write that. You think you have to make a list of lists, make that. If you think that you have to run the loop and run all one by one, by giving all the questions, that is also fine. You think you have to randomly remove questions from the list, that is also fine. I am totally fine with anything. But do try this out. That's why I am not imposing any hard and fast rule here that you have to do this. You have to do this. It is up to you how your brain works. You make it. But it will be a lot of fun because when it comes to who will be a millionaire, it is a different feeling. Okay, you are playing your program yourself. Okay, the game is fun. Okay, so you guys must try this. If someone has not accessed the playlist, then definitely access it. That's all for now, guys. Thank you so much guys for watching this video. And I will see you next time."
+}

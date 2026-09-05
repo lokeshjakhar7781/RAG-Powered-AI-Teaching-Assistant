@@ -1,0 +1,1202 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 0.0,
+            "end": 2.8000000000000003,
+            "text": " Guys, you must have heard about Snake Water Gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 2.8000000000000003,
+            "end": 5.16,
+            "text": " This is a game that we all used to play in our childhood."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 5.16,
+            "end": 8.0,
+            "text": " There is a game called Rock Paper Scissors that we used to play."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 8.0,
+            "end": 11.36,
+            "text": " What happens in this is that a person will make a snake, water gun,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 11.36,
+            "end": 14.16,
+            "text": " or he will make a snake, or he will make water, or he will make a gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 14.16,
+            "end": 16.28,
+            "text": " And the gun kills the snake."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 16.28,
+            "end": 18.36,
+            "text": " The snake drinks the water."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 18.36,
+            "end": 20.400000000000002,
+            "text": " And the water spoils the gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 20.400000000000002,
+            "end": 23.16,
+            "text": " So, according to this, the player gets points for whatever he made randomly."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 23.16,
+            "end": 25.2,
+            "text": " In this video, I want to give you an exercise."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 25.2,
+            "end": 26.32,
+            "text": " I want to give you a challenge."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 26.32,
+            "end": 27.84,
+            "text": " I want to see how much courage you have in this."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 27.84,
+            "end": 30.8,
+            "text": " Let's go to the computer screen and see the problem statement first."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 30.8,
+            "end": 35.0,
+            "text": " And then we will see who solves it the best and first."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 44.32,
+            "end": 46.72,
+            "text": " So, I have come here in my childhood."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 46.72,
+            "end": 48.92,
+            "text": " Sorry, not childhood, in my 55's."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 48.92,
+            "end": 49.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 49.8,
+            "end": 51.92,
+            "text": " Not childhood, 55."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 51.92,
+            "end": 54.879999999999995,
+            "text": " Okay, so what you have to do here is to make a snake, water gun game."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 54.879999999999995,
+            "end": 57.04,
+            "text": " It's very simple. I will give you some hints before going here."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 57.04,
+            "end": 59.24,
+            "text": " Okay? I will not go like this that make a snake, water gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 59.24,
+            "end": 62.16,
+            "text": " First of all, you will take input from the user"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 62.16,
+            "end": 66.56,
+            "text": " that what he wants to choose from snake, water, or gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 66.56,
+            "end": 68.32,
+            "text": " Then after that, the computer will choose"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 68.32,
+            "end": 70.44,
+            "text": " that it will be automatic from snake, water, or gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 70.44,
+            "end": 71.96,
+            "text": " It will not be in your control."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 71.96,
+            "end": 76.72,
+            "text": " And after that, when the computer chose snake, water, or gun,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 76.72,
+            "end": 79.64,
+            "text": " then your input will be that it can be snake, water, or gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 79.64,
+            "end": 82.75999999999999,
+            "text": " And then the other's input will be that it can be snake, water, or gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 82.75999999999999,
+            "end": 84.75999999999999,
+            "text": " Now, let's say this is the computer."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 84.75999999999999,
+            "end": 86.08,
+            "text": " Oops!"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 86.2,
+            "end": 88.2,
+            "text": " I want to show you something."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 88.2,
+            "end": 90.2,
+            "text": " Let me make a new file here."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 90.2,
+            "end": 93.08,
+            "text": " I actually write this thing in main.py and I will make it sit."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 93.08,
+            "end": 94.75999999999999,
+            "text": " Let's say this is a computer."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 94.75999999999999,
+            "end": 96.75999999999999,
+            "text": " Let's say the computer chose snake."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 96.75999999999999,
+            "end": 97.36,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 97.36,
+            "end": 99.03999999999999,
+            "text": " Let's say 1 for snake."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 99.03999999999999,
+            "end": 102.8,
+            "text": " I will do one thing, I will call it minus 1, 0, and 1."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 102.8,
+            "end": 104.8,
+            "text": " Now I will explain to you what it means."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 104.8,
+            "end": 106.56,
+            "text": " It simply means that"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 106.56,
+            "end": 108.56,
+            "text": " look, minus 1 means"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 108.56,
+            "end": 110.08,
+            "text": " it is snake."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 110.08,
+            "end": 111.08,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 111.08,
+            "end": 112.52,
+            "text": " I am just here"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 112.52,
+            "end": 114.08,
+            "text": " doing a little bit of brainstorming."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 114.08,
+            "end": 116.03999999999999,
+            "text": " I am just thinking out loud in front of you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 116.16000000000001,
+            "end": 118.16000000000001,
+            "text": " This is water and this is gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 118.16000000000001,
+            "end": 122.16000000000001,
+            "text": " Now, let's write the player's input here."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 122.16000000000001,
+            "end": 125.04,
+            "text": " Now, what can the player do?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 125.04,
+            "end": 127.72,
+            "text": " If snake is minus 1, what can the player do?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 127.72,
+            "end": 129.72,
+            "text": " Player can be 1."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 129.72,
+            "end": 131.72,
+            "text": " And along with that,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 131.72,
+            "end": 134.32,
+            "text": " what else can the player do with minus 1?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 134.32,
+            "end": 137.04000000000002,
+            "text": " It can be 0 or minus 1."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 137.04000000000002,
+            "end": 139.04000000000002,
+            "text": " Okay? Nothing more than this can happen."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 139.04000000000002,
+            "end": 141.32,
+            "text": " Or it can be minus 1."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 141.32,
+            "end": 142.04000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 142.04000000000002,
+            "end": 144.04000000000002,
+            "text": " Now, what I have to do is,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 144.04,
+            "end": 146.04,
+            "text": " if computer is minus 1, that is, computer is snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 146.04,
+            "end": 150.04,
+            "text": " and our player is 1, that is, gun,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 150.04,
+            "end": 151.44,
+            "text": " then who will win? You tell me."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 151.44,
+            "end": 153.04,
+            "text": " Who will win between snake and gun?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 153.04,
+            "end": 154.04,
+            "text": " Obviously, gun will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 154.04,
+            "end": 155.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 155.04,
+            "end": 157.04,
+            "text": " Who will win between water and gun?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 157.04,
+            "end": 159.04,
+            "text": " Obviously, water will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 159.04,
+            "end": 160.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 160.04,
+            "end": 162.04,
+            "text": " And who will win between snake and water?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 162.04,
+            "end": 163.04,
+            "text": " Snake will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 163.04,
+            "end": 165.04,
+            "text": " Okay? So, can I make a matrix like this?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 165.04,
+            "end": 166.04,
+            "text": " You tell me."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 166.04,
+            "end": 168.04,
+            "text": " I wrote minus 1 here."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 168.04,
+            "end": 171.04,
+            "text": " If you have read matrix and determinants,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 171.04,
+            "end": 173.04,
+            "text": " then you know what I am talking about."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 173.04,
+            "end": 174.04,
+            "text": " Now, who will win?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 174.04,
+            "end": 176.04,
+            "text": " See, I want to tell you again that"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 176.04,
+            "end": 179.04,
+            "text": " this is our snake, this is our water here,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 179.04,
+            "end": 181.04,
+            "text": " this is water and this is our gun."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 181.04,
+            "end": 182.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 182.04,
+            "end": 185.04,
+            "text": " Now, see, if one person took snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 185.04,
+            "end": 186.04,
+            "text": " okay? If other person also took snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 186.04,
+            "end": 188.04,
+            "text": " then what will happen? This will be draw."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 188.04,
+            "end": 189.04,
+            "text": " Okay? So, this will be draw."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 189.04,
+            "end": 190.04,
+            "text": " I will write this as D."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 190.04,
+            "end": 192.04,
+            "text": " If one person took water and one person took snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 192.04,
+            "end": 194.04,
+            "text": " then what will happen?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 194.04,
+            "end": 196.04,
+            "text": " Snake will drink the water."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 196.04,
+            "end": 197.04,
+            "text": " So, who will win?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 197.04,
+            "end": 198.04,
+            "text": " You will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 198.04,
+            "end": 199.04,
+            "text": " So, this will be win for you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 199.04,
+            "end": 200.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 200.04,
+            "end": 202.04,
+            "text": " After this, if you took snake"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 202.04,
+            "end": 204.04,
+            "text": " and computer took gun,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 204.04,
+            "end": 205.04,
+            "text": " then what will it do?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 205.04,
+            "end": 206.04,
+            "text": " It will blow you up."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 206.04,
+            "end": 207.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 207.04,
+            "end": 208.04,
+            "text": " So, this will be lose for you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 208.04,
+            "end": 210.04,
+            "text": " Similarly, what will happen here?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 210.04,
+            "end": 213.04,
+            "text": " This will be draw on its diagonal."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 213.04,
+            "end": 215.04,
+            "text": " But you will see here that"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 215.04,
+            "end": 218.04,
+            "text": " if you took water and gun came in front,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 218.04,
+            "end": 219.04,
+            "text": " then you will win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 219.04,
+            "end": 220.04,
+            "text": " So, this will be win for you again."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 220.04,
+            "end": 221.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 221.04,
+            "end": 223.04,
+            "text": " Similarly, if computer took snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 223.04,
+            "end": 225.04,
+            "text": " you took water, then what will happen?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 225.04,
+            "end": 226.04,
+            "text": " If computer took snake,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 226.04,
+            "end": 227.04,
+            "text": " you took water,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 227.04,
+            "end": 229.04,
+            "text": " then computer will drink you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 229.04,
+            "end": 231.04,
+            "text": " So, this will be lose for you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 231.04,
+            "end": 232.04,
+            "text": " But if gun came,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 232.04,
+            "end": 233.04,
+            "text": " you will blow it up."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 233.04,
+            "end": 234.04,
+            "text": " So, this will be win for you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 234.04,
+            "end": 236.04,
+            "text": " Similarly, if computer took water,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 236.04,
+            "end": 237.04,
+            "text": " you took gun,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 237.04,
+            "end": 239.04,
+            "text": " then your gun will be drowned."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 239.04,
+            "end": 240.04,
+            "text": " So, this will be lose for you."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 240.04,
+            "end": 241.04,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 241.04,
+            "end": 243.04,
+            "text": " And here, what is the number of wins"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 243.04,
+            "end": 245.04,
+            "text": " and number of loses equal?"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 245.04,
+            "end": 246.04,
+            "text": " Yes, okay."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 246.04,
+            "end": 247.04,
+            "text": " Three wins, three loses."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 247.04,
+            "end": 248.04,
+            "text": " Now, if we make this here,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 248.04,
+            "end": 250.04,
+            "text": " now suppose I indicate win"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 250.04,
+            "end": 252.04,
+            "text": " with minus one,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 252.04,
+            "end": 254.04,
+            "text": " and I indicate lose,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 254.04,
+            "end": 256.03999999999996,
+            "text": " sorry, I indicate win with one,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 256.03999999999996,
+            "end": 258.03999999999996,
+            "text": " I indicate loss with minus one,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 258.03999999999996,
+            "end": 260.03999999999996,
+            "text": " and I indicate draw with zero."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 260.04,
+            "end": 262.04,
+            "text": " So, I can make a mathematical matrix here."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 262.04,
+            "end": 264.04,
+            "text": " And this can be made in the form"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 264.04,
+            "end": 266.04,
+            "text": " of a two-dimensional list."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 266.04,
+            "end": 268.04,
+            "text": " And you can easily find out"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 268.04,
+            "end": 270.04,
+            "text": " this thing that what is loss,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 270.04,
+            "end": 272.04,
+            "text": " what is win."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 272.04,
+            "end": 274.04,
+            "text": " So, you can, in fact,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 274.04,
+            "end": 276.04,
+            "text": " not make it minus one, zero, one,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 276.04,
+            "end": 278.04,
+            "text": " but zero, one, two, so that it can"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 278.04,
+            "end": 280.04,
+            "text": " fit in your list."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 280.04,
+            "end": 282.04,
+            "text": " So, I just want to say that,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 282.04,
+            "end": 284.04,
+            "text": " there are many ways to solve problems."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 284.04,
+            "end": 286.04,
+            "text": " There are mathematical ways also."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 286.04,
+            "end": 288.04,
+            "text": " You can do it by simply putting if-else."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 288.04,
+            "end": 290.04,
+            "text": " You can also do it by putting simple if-else."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 290.04,
+            "end": 292.04,
+            "text": " But I just want to tell you that"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 292.04,
+            "end": 294.04,
+            "text": " if we do it in this way,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 294.04,
+            "end": 296.04,
+            "text": " mathematically,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 296.04,
+            "end": 298.04,
+            "text": " then when things are complex,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 298.04,
+            "end": 300.04,
+            "text": " then it becomes easy for us."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 300.04,
+            "end": 302.04,
+            "text": " By the way, I leave it to you"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 302.04,
+            "end": 304.04,
+            "text": " how you do this exercise."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 304.04,
+            "end": 306.04,
+            "text": " But I just wanted to give you a perspective."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 306.04,
+            "end": 308.04,
+            "text": " And I hope you will benefit from it."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 308.04,
+            "end": 310.04,
+            "text": " That's all for now."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 310.04,
+            "end": 312.04,
+            "text": " I will meet you in the solution."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 312.04,
+            "end": 314.04,
+            "text": " And I want everyone to solve it."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 314.04,
+            "end": 316.04,
+            "text": " Because it will be fun to play this game"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 316.04,
+            "end": 318.04,
+            "text": " If you haven't accessed the playlist yet,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 318.04,
+            "end": 320.04,
+            "text": " then do access it."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 320.04,
+            "end": 322.04,
+            "text": " And also, do put a review of this course in the first video."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 322.04,
+            "end": 324.04,
+            "text": " Because if anyone starts watching this,"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 324.04,
+            "end": 326.04,
+            "text": " then I want him to know"
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 326.04,
+            "end": 328.04,
+            "text": " what he is going to get in this course."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 328.04,
+            "end": 330.04,
+            "text": " So, that's all for now."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 330.04,
+            "end": 332.04,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 332.04,
+            "end": 334.04,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 346.04,
+            "end": 348.04,
+            "text": " Music."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 348.04,
+            "end": 350.04,
+            "text": " Music."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 350.04,
+            "end": 352.04,
+            "text": " Music."
+        },
+        {
+            "number": "5",
+            "title": "Snake Water Gun",
+            "start": 352.04,
+            "end": 354.04,
+            "text": " Music."
+        }
+    ],
+    "text": " Guys, you must have heard about Snake Water Gun. This is a game that we all used to play in our childhood. There is a game called Rock Paper Scissors that we used to play. What happens in this is that a person will make a snake, water gun, or he will make a snake, or he will make water, or he will make a gun. And the gun kills the snake. The snake drinks the water. And the water spoils the gun. So, according to this, the player gets points for whatever he made randomly. In this video, I want to give you an exercise. I want to give you a challenge. I want to see how much courage you have in this. Let's go to the computer screen and see the problem statement first. And then we will see who solves it the best and first. So, I have come here in my childhood. Sorry, not childhood, in my 55's. Okay? Not childhood, 55. Okay, so what you have to do here is to make a snake, water gun game. It's very simple. I will give you some hints before going here. Okay? I will not go like this that make a snake, water gun. First of all, you will take input from the user that what he wants to choose from snake, water, or gun. Then after that, the computer will choose that it will be automatic from snake, water, or gun. It will not be in your control. And after that, when the computer chose snake, water, or gun, then your input will be that it can be snake, water, or gun. And then the other's input will be that it can be snake, water, or gun. Now, let's say this is the computer. Oops! I want to show you something. Let me make a new file here. I actually write this thing in main.py and I will make it sit. Let's say this is a computer. Let's say the computer chose snake. Okay? Let's say 1 for snake. I will do one thing, I will call it minus 1, 0, and 1. Now I will explain to you what it means. It simply means that look, minus 1 means it is snake. Okay? I am just here doing a little bit of brainstorming. I am just thinking out loud in front of you. This is water and this is gun. Now, let's write the player's input here. Now, what can the player do? If snake is minus 1, what can the player do? Player can be 1. And along with that, what else can the player do with minus 1? It can be 0 or minus 1. Okay? Nothing more than this can happen. Or it can be minus 1. Okay? Now, what I have to do is, if computer is minus 1, that is, computer is snake, and our player is 1, that is, gun, then who will win? You tell me. Who will win between snake and gun? Obviously, gun will win. Okay? Who will win between water and gun? Obviously, water will win. Okay? And who will win between snake and water? Snake will win. Okay? So, can I make a matrix like this? You tell me. I wrote minus 1 here. If you have read matrix and determinants, then you know what I am talking about. Now, who will win? See, I want to tell you again that this is our snake, this is our water here, this is water and this is our gun. Okay? Now, see, if one person took snake, okay? If other person also took snake, then what will happen? This will be draw. Okay? So, this will be draw. I will write this as D. If one person took water and one person took snake, then what will happen? Snake will drink the water. So, who will win? You will win. So, this will be win for you. Okay? After this, if you took snake and computer took gun, then what will it do? It will blow you up. Okay? So, this will be lose for you. Similarly, what will happen here? This will be draw on its diagonal. But you will see here that if you took water and gun came in front, then you will win. So, this will be win for you again. Okay? Similarly, if computer took snake, you took water, then what will happen? If computer took snake, you took water, then computer will drink you. So, this will be lose for you. But if gun came, you will blow it up. So, this will be win for you. Similarly, if computer took water, you took gun, then your gun will be drowned. So, this will be lose for you. Okay? And here, what is the number of wins and number of loses equal? Yes, okay. Three wins, three loses. Now, if we make this here, now suppose I indicate win with minus one, and I indicate lose, sorry, I indicate win with one, I indicate loss with minus one, and I indicate draw with zero. So, I can make a mathematical matrix here. And this can be made in the form of a two-dimensional list. And you can easily find out this thing that what is loss, what is win. So, you can, in fact, not make it minus one, zero, one, but zero, one, two, so that it can fit in your list. So, I just want to say that, there are many ways to solve problems. There are mathematical ways also. You can do it by simply putting if-else. You can also do it by putting simple if-else. But I just want to tell you that if we do it in this way, mathematically, then when things are complex, then it becomes easy for us. By the way, I leave it to you how you do this exercise. But I just wanted to give you a perspective. And I hope you will benefit from it. That's all for now. I will meet you in the solution. And I want everyone to solve it. Because it will be fun to play this game If you haven't accessed the playlist yet, then do access it. And also, do put a review of this course in the first video. Because if anyone starts watching this, then I want him to know what he is going to get in this course. So, that's all for now. Thank you so much for watching this video. And I will see you next time. Music. Music. Music. Music."
+}

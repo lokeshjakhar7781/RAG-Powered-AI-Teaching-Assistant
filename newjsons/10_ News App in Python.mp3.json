@@ -1,0 +1,124 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 0.0,
+            "end": 22.0,
+            "text": " Today we will see again how much is there in it Let's understand this problem of exercise 10 first And after that you have to solve it. Let's go to the computer screen And let's get started So news API is a very amazing thing"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 22.0,
+            "end": 37.0,
+            "text": " One thing is for sure But the work I want to do from you today Let me show you What to do is to use the news API First of all, search for news API"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 37.0,
+            "end": 52.0,
+            "text": " If you don't know what news API is Then don't be ashamed Because news API may not be known to some people But yes, if you say that you don't know news API Then you must be ashamed"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 52.0,
+            "end": 67.0,
+            "text": " Search for news with code I am doing a sponsor This is a good API and you can use its free version And you will get to learn the use of request module You can get all the news by hitting get request on request module"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 67.0,
+            "end": 82.0,
+            "text": " You can show it on command line I don't want to give too much hint Otherwise everyone will have fun So what you have to do Use the news API and the request module"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 82.0,
+            "end": 97.0,
+            "text": " I will tell you what happens in this I will tell you when I come to the documentation of news API You have to do different news of weather, sports, celebrities News of youtubers All kinds of news"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 97.0,
+            "end": 112.0,
+            "text": " You can fetch here Sometimes what happens is that our daily newspaper I was reading the newspaper yesterday That the dog of Mr. Saxena bit him His wife made dal"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 112.0,
+            "end": 127.0,
+            "text": " I don't give 7 rupees for this There is a newspaper of 7 rupees I give it to read So sometimes I have to come here and use such apps If you sit on TV, then there are such news headlines"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 127.0,
+            "end": 142.0,
+            "text": " That there was a fight in the coconut in the mobile What do aliens drink, where is the cow's milk going What is happening, the milk has disappeared from somewhere If you have your news API Then you will see the same news that you should see"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 142.0,
+            "end": 157.0,
+            "text": " Now the documentation of news API is very good I will show you its documentation You can filter the sources That I only need news of TOI You can filter like this"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 157.0,
+            "end": 172.0,
+            "text": " Which is a very good thing You can search for news with keywords I will not make you feel bad You just have to take this URL And my API"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 172.0,
+            "end": 187.0,
+            "text": " I am getting angry Last time I made a project of this Everyone exhausted my API Why are you making fun of my API Making your own API is free"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 187.0,
+            "end": 202.0,
+            "text": " Either it is 10 rupees or 5 rupees You will have to win a lot of wars to make an API Then you will get an API Make your own API and sign up for newsapi.org Use my API"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 202.0,
+            "end": 217.0,
+            "text": " I don't forget the day And my API is not wasted So I will meet you in the solution of exercise 10 I want to say one thing before leaving Show me your creativity"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 217.0,
+            "end": 232.0,
+            "text": " Show me weather news What type of news do you want to watch Press 1 for weather, press 2 for sports But everyone should do a basic news You can give some options"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 232.0,
+            "end": 247.0,
+            "text": " Press 1 for TOI news Press 1 for sports news Press 2 for Bollywood news Don't make it so difficult So that you don't see news"
+        },
+        {
+            "number": "10",
+            "title": "News App in Python",
+            "start": 247.0,
+            "end": 273.0,
+            "text": " So that's it for now I will meet you in the solution of exercise And i will see you next time Thank you for watching it Please subscribe"
+        }
+    ],
+    "text": " Today we will see again how much is there in it Let's understand this problem of exercise 10 first And after that you have to solve it. Let's go to the computer screen And let's get started So news API is a very amazing thing One thing is for sure But the work I want to do from you today Let me show you What to do is to use the news API First of all, search for news API If you don't know what news API is Then don't be ashamed Because news API may not be known to some people But yes, if you say that you don't know news API Then you must be ashamed Search for news with code I am doing a sponsor This is a good API and you can use its free version And you will get to learn the use of request module You can get all the news by hitting get request on request module You can show it on command line I don't want to give too much hint Otherwise everyone will have fun So what you have to do Use the news API and the request module I will tell you what happens in this I will tell you when I come to the documentation of news API You have to do different news of weather, sports, celebrities News of youtubers All kinds of news You can fetch here Sometimes what happens is that our daily newspaper I was reading the newspaper yesterday That the dog of Mr. Saxena bit him His wife made dal I don't give 7 rupees for this There is a newspaper of 7 rupees I give it to read So sometimes I have to come here and use such apps If you sit on TV, then there are such news headlines That there was a fight in the coconut in the mobile What do aliens drink, where is the cow's milk going What is happening, the milk has disappeared from somewhere If you have your news API Then you will see the same news that you should see Now the documentation of news API is very good I will show you its documentation You can filter the sources That I only need news of TOI You can filter like this Which is a very good thing You can search for news with keywords I will not make you feel bad You just have to take this URL And my API I am getting angry Last time I made a project of this Everyone exhausted my API Why are you making fun of my API Making your own API is free Either it is 10 rupees or 5 rupees You will have to win a lot of wars to make an API Then you will get an API Make your own API and sign up for newsapi.org Use my API I don't forget the day And my API is not wasted So I will meet you in the solution of exercise 10 I want to say one thing before leaving Show me your creativity Show me weather news What type of news do you want to watch Press 1 for weather, press 2 for sports But everyone should do a basic news You can give some options Press 1 for TOI news Press 1 for sports news Press 2 for Bollywood news Don't make it so difficult So that you don't see news So that's it for now I will meet you in the solution of exercise And i will see you next time Thank you for watching it Please subscribe"
+}

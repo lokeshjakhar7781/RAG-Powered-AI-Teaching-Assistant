@@ -1,0 +1,75 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 0.0,
+            "end": 10.64,
+            "text": " This exercise is going to be amazing because today we are going to make Who will be a millionaire? If you have seen who will be a millionaire, then you will know what I am talking about. With the help of Python programming,"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 10.64,
+            "end": 34.72,
+            "text": " we are going to see how to make a millionaire. Let's go to the computer screen and let's get started. So today's exercise is that create a program capable of displaying questions to the user like KBC. So you have to make the user like a millionaire."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 34.72,
+            "end": 57.44,
+            "text": " And you have to keep the questions in front of the user and the user will answer them. And finally, you have to feed them KBC that how much money they have to win, how much they have to lose, you have to write its logic. Okay, so what you have to do is use list data type. What you have to do is use list data type to store the questions and their answers."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 58.08,
+            "end": 84.96000000000001,
+            "text": " Okay, I am in fact, so correct answers. Now how do you manage questions and correct answers are completely up to you. Okay, I will do it now. I will write that display the final amount the person is taking home after playing the game. Okay, so who will make you a millionaire in Python?"
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 84.96000000000001,
+            "end": 96.08000000000001,
+            "text": " It will be fun, it will be a lot of fun. I am telling you the truth, it will be a lot of fun. So you guys must try it. Okay, you have the creative freedom of the program. Okay, you make the program as you want."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 96.08,
+            "end": 112.47999999999999,
+            "text": " Okay, write the program as you want. Okay, you think I have to write the index of correct answers, write that. You think you have to make a list of lists, make that. If you think that you have to run the loop and run all one by one, by giving all the questions, that is also fine."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 112.47999999999999,
+            "end": 124.4,
+            "text": " You think you have to randomly remove questions from the list, that is also fine. I am totally fine with anything. But do try this out. That's why I am not imposing any hard and fast rule here that you have to do this. You have to do this."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 124.4,
+            "end": 134.56,
+            "text": " It is up to you how your brain works. You make it. But it will be a lot of fun because when it comes to who will be a millionaire, it is a different feeling. Okay, you are playing your program yourself."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 134.56,
+            "end": 144.96,
+            "text": " Okay, the game is fun. Okay, so you guys must try this. If someone has not accessed the playlist, then definitely access it. That's all for now, guys. Thank you so much guys for watching this video."
+        },
+        {
+            "number": "3",
+            "title": "Kaun Banega Crorepati (KBC)",
+            "start": 144.96,
+            "end": 147.76,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " This exercise is going to be amazing because today we are going to make Who will be a millionaire? If you have seen who will be a millionaire, then you will know what I am talking about. With the help of Python programming, we are going to see how to make a millionaire. Let's go to the computer screen and let's get started. So today's exercise is that create a program capable of displaying questions to the user like KBC. So you have to make the user like a millionaire. And you have to keep the questions in front of the user and the user will answer them. And finally, you have to feed them KBC that how much money they have to win, how much they have to lose, you have to write its logic. Okay, so what you have to do is use list data type. What you have to do is use list data type to store the questions and their answers. Okay, I am in fact, so correct answers. Now how do you manage questions and correct answers are completely up to you. Okay, I will do it now. I will write that display the final amount the person is taking home after playing the game. Okay, so who will make you a millionaire in Python? It will be fun, it will be a lot of fun. I am telling you the truth, it will be a lot of fun. So you guys must try it. Okay, you have the creative freedom of the program. Okay, you make the program as you want. Okay, write the program as you want. Okay, you think I have to write the index of correct answers, write that. You think you have to make a list of lists, make that. If you think that you have to run the loop and run all one by one, by giving all the questions, that is also fine. You think you have to randomly remove questions from the list, that is also fine. I am totally fine with anything. But do try this out. That's why I am not imposing any hard and fast rule here that you have to do this. You have to do this. It is up to you how your brain works. You make it. But it will be a lot of fun because when it comes to who will be a millionaire, it is a different feeling. Okay, you are playing your program yourself. Okay, the game is fun. Okay, so you guys must try this. If someone has not accessed the playlist, then definitely access it. That's all for now, guys. Thank you so much guys for watching this video. And I will see you next time."
+}

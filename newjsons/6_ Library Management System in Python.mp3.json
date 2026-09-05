@@ -1,0 +1,89 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 0.0,
+            "end": 13.0,
+            "text": " What's up guys, today we will do another exercise Let's see how much strength is there in this exercise Let's go to the computer screen And I want everyone to solve this exercise Let's get started"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 22.0,
+            "end": 37.0,
+            "text": " So I have come back with an exercise And you have to make a library class You have to make a class library In which you can make some variables and methods You have to make two variables, one is number of books"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 37.0,
+            "end": 52.0,
+            "text": " And one is books Books will be a list, I am telling you And this is an integer, how many books are there As you will add books with the help of methods Similarly, the number of books variable should be an increment"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 52.0,
+            "end": 67.0,
+            "text": " Now I know that the number of books variable There was no need for this, because we can make it by len of books But still you have to make it and make a method Which will check that the number of books is equal to len of books And if this does not happen"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 67.0,
+            "end": 82.0,
+            "text": " Then it will tell that your program There is something wrong in it because your number of books and books Which is different, in the same way you can make two or three libraries From library class to library 1, library 2, library 3 And you finish this program and at the end of this I have asked a question"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 82.0,
+            "end": 97.0,
+            "text": " That does your program persist the books you have entered After stopping the program Means those books remain in the memory or not And the answer to this is very simple, I will not tell you But you guys see it yourself, I want you to feel it yourself"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 97.0,
+            "end": 112.0,
+            "text": " And make me a library class Very minimal object oriented programming program So I will give you very little time to make it So the solution to this exercise will come very soon So if you have not seen the video on time"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 112.0,
+            "end": 127.0,
+            "text": " Then press the bell, whatever you do, watch the video on time Secondly, this program should be like this Whatever I am talking about in the video, your Apple should be open Your Apple should be open and your program should start So you guys start working"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 127.0,
+            "end": 142.0,
+            "text": " After watching the video, but if you have not accessed it yet Then do it and do one thing for me That in the first video you guys write a review About this course and if you write a review Then I will feel good from the heart because whoever is a new student"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 142.0,
+            "end": 157.0,
+            "text": " Who wants to see this course, how much benefit will this course give them They will know this thing that if they If they see your review, then I want you to review this course And if you do this Then I will feel very good from the heart, rest you guys"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 157.0,
+            "end": 172.0,
+            "text": " Do solve this question and I am saying again I am not going to give this question in a lot of time So I will give you the answer to this question very soon So don't say that you didn't give time So that's it for this video"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 172.0,
+            "end": 195.0,
+            "text": " Thank you so much for watching this video And I will see you next time Music"
+        }
+    ],
+    "text": " What's up guys, today we will do another exercise Let's see how much strength is there in this exercise Let's go to the computer screen And I want everyone to solve this exercise Let's get started So I have come back with an exercise And you have to make a library class You have to make a class library In which you can make some variables and methods You have to make two variables, one is number of books And one is books Books will be a list, I am telling you And this is an integer, how many books are there As you will add books with the help of methods Similarly, the number of books variable should be an increment Now I know that the number of books variable There was no need for this, because we can make it by len of books But still you have to make it and make a method Which will check that the number of books is equal to len of books And if this does not happen Then it will tell that your program There is something wrong in it because your number of books and books Which is different, in the same way you can make two or three libraries From library class to library 1, library 2, library 3 And you finish this program and at the end of this I have asked a question That does your program persist the books you have entered After stopping the program Means those books remain in the memory or not And the answer to this is very simple, I will not tell you But you guys see it yourself, I want you to feel it yourself And make me a library class Very minimal object oriented programming program So I will give you very little time to make it So the solution to this exercise will come very soon So if you have not seen the video on time Then press the bell, whatever you do, watch the video on time Secondly, this program should be like this Whatever I am talking about in the video, your Apple should be open Your Apple should be open and your program should start So you guys start working After watching the video, but if you have not accessed it yet Then do it and do one thing for me That in the first video you guys write a review About this course and if you write a review Then I will feel good from the heart because whoever is a new student Who wants to see this course, how much benefit will this course give them They will know this thing that if they If they see your review, then I want you to review this course And if you do this Then I will feel very good from the heart, rest you guys Do solve this question and I am saying again I am not going to give this question in a lot of time So I will give you the answer to this question very soon So don't say that you didn't give time So that's it for this video Thank you so much for watching this video And I will see you next time Music"
+}

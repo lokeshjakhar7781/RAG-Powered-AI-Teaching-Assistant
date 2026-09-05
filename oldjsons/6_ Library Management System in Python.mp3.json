@@ -1,0 +1,411 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " What's up guys, today we will do another exercise"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 3.0,
+            "end": 6.0,
+            "text": " Let's see how much strength is there in this exercise"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 6.0,
+            "end": 9.0,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 9.0,
+            "end": 12.0,
+            "text": " And I want everyone to solve this exercise"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 12.0,
+            "end": 13.0,
+            "text": " Let's get started"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 22.0,
+            "end": 25.0,
+            "text": " So I have come back with an exercise"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " And you have to make a library class"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " You have to make a class library"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 31.0,
+            "end": 34.0,
+            "text": " In which you can make some variables and methods"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 34.0,
+            "end": 37.0,
+            "text": " You have to make two variables, one is number of books"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 37.0,
+            "end": 40.0,
+            "text": " And one is books"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 40.0,
+            "end": 43.0,
+            "text": " Books will be a list, I am telling you"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 43.0,
+            "end": 46.0,
+            "text": " And this is an integer, how many books are there"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 46.0,
+            "end": 49.0,
+            "text": " As you will add books with the help of methods"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 49.0,
+            "end": 52.0,
+            "text": " Similarly, the number of books variable should be an increment"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 52.0,
+            "end": 55.0,
+            "text": " Now I know that the number of books variable"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 55.0,
+            "end": 58.0,
+            "text": " There was no need for this, because we can make it by len of books"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " But still you have to make it and make a method"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 61.0,
+            "end": 64.0,
+            "text": " Which will check that the number of books is equal to len of books"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 64.0,
+            "end": 67.0,
+            "text": " And if this does not happen"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 67.0,
+            "end": 70.0,
+            "text": " Then it will tell that your program"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 70.0,
+            "end": 73.0,
+            "text": " There is something wrong in it because your number of books and books"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 73.0,
+            "end": 76.0,
+            "text": " Which is different, in the same way you can make two or three libraries"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " From library class to library 1, library 2, library 3"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " And you finish this program and at the end of this I have asked a question"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 82.0,
+            "end": 85.0,
+            "text": " That does your program persist the books you have entered"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 85.0,
+            "end": 88.0,
+            "text": " After stopping the program"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 88.0,
+            "end": 91.0,
+            "text": " Means those books remain in the memory or not"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 91.0,
+            "end": 94.0,
+            "text": " And the answer to this is very simple, I will not tell you"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 94.0,
+            "end": 97.0,
+            "text": " But you guys see it yourself, I want you to feel it yourself"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 97.0,
+            "end": 100.0,
+            "text": " And make me a library class"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 100.0,
+            "end": 103.0,
+            "text": " Very minimal object oriented programming program"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 103.0,
+            "end": 106.0,
+            "text": " So I will give you very little time to make it"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 106.0,
+            "end": 109.0,
+            "text": " So the solution to this exercise will come very soon"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " So if you have not seen the video on time"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 112.0,
+            "end": 115.0,
+            "text": " Then press the bell, whatever you do, watch the video on time"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 115.0,
+            "end": 118.0,
+            "text": " Secondly, this program should be like this"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 118.0,
+            "end": 121.0,
+            "text": " Whatever I am talking about in the video, your Apple should be open"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 121.0,
+            "end": 124.0,
+            "text": " Your Apple should be open and your program should start"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 124.0,
+            "end": 127.0,
+            "text": " So you guys start working"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 127.0,
+            "end": 130.0,
+            "text": " After watching the video, but if you have not accessed it yet"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 130.0,
+            "end": 133.0,
+            "text": " Then do it and do one thing for me"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 133.0,
+            "end": 136.0,
+            "text": " That in the first video you guys write a review"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 136.0,
+            "end": 139.0,
+            "text": " About this course and if you write a review"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 139.0,
+            "end": 142.0,
+            "text": " Then I will feel good from the heart because whoever is a new student"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 142.0,
+            "end": 145.0,
+            "text": " Who wants to see this course, how much benefit will this course give them"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 145.0,
+            "end": 148.0,
+            "text": " They will know this thing that if they"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 148.0,
+            "end": 151.0,
+            "text": " If they see your review, then I want you to review this course"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 151.0,
+            "end": 154.0,
+            "text": " And if you do this"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 154.0,
+            "end": 157.0,
+            "text": " Then I will feel very good from the heart, rest you guys"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 157.0,
+            "end": 160.0,
+            "text": " Do solve this question and I am saying again"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 160.0,
+            "end": 163.0,
+            "text": " I am not going to give this question in a lot of time"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 163.0,
+            "end": 166.0,
+            "text": " So I will give you the answer to this question very soon"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 166.0,
+            "end": 169.0,
+            "text": " So don't say that you didn't give time"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 169.0,
+            "end": 172.0,
+            "text": " So that's it for this video"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 172.0,
+            "end": 175.0,
+            "text": " Thank you so much for watching this video"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 175.0,
+            "end": 176.0,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "6",
+            "title": "Library Management System in Python",
+            "start": 193.0,
+            "end": 195.0,
+            "text": " Music"
+        }
+    ],
+    "text": " What's up guys, today we will do another exercise Let's see how much strength is there in this exercise Let's go to the computer screen And I want everyone to solve this exercise Let's get started So I have come back with an exercise And you have to make a library class You have to make a class library In which you can make some variables and methods You have to make two variables, one is number of books And one is books Books will be a list, I am telling you And this is an integer, how many books are there As you will add books with the help of methods Similarly, the number of books variable should be an increment Now I know that the number of books variable There was no need for this, because we can make it by len of books But still you have to make it and make a method Which will check that the number of books is equal to len of books And if this does not happen Then it will tell that your program There is something wrong in it because your number of books and books Which is different, in the same way you can make two or three libraries From library class to library 1, library 2, library 3 And you finish this program and at the end of this I have asked a question That does your program persist the books you have entered After stopping the program Means those books remain in the memory or not And the answer to this is very simple, I will not tell you But you guys see it yourself, I want you to feel it yourself And make me a library class Very minimal object oriented programming program So I will give you very little time to make it So the solution to this exercise will come very soon So if you have not seen the video on time Then press the bell, whatever you do, watch the video on time Secondly, this program should be like this Whatever I am talking about in the video, your Apple should be open Your Apple should be open and your program should start So you guys start working After watching the video, but if you have not accessed it yet Then do it and do one thing for me That in the first video you guys write a review About this course and if you write a review Then I will feel good from the heart because whoever is a new student Who wants to see this course, how much benefit will this course give them They will know this thing that if they If they see your review, then I want you to review this course And if you do this Then I will feel very good from the heart, rest you guys Do solve this question and I am saying again I am not going to give this question in a lot of time So I will give you the answer to this question very soon So don't say that you didn't give time So that's it for this video Thank you so much for watching this video And I will see you next time Music"
+}

@@ -1,0 +1,460 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " so guys today is our day 76"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 3.0,
+            "end": 6.0,
+            "text": " and in day 76 i am going to give you an exercise"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 6.0,
+            "end": 9.0,
+            "text": " in which you have to manipulate pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 9.0,
+            "end": 12.0,
+            "text": " and you have to do this by using pypdf module"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 12.0,
+            "end": 15.0,
+            "text": " so we have a module named pypdf"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 15.0,
+            "end": 18.0,
+            "text": " with the help of which you can merge pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " so let's say i gave you 5-6 pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " you can merge them in one"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 24.0,
+            "end": 27.0,
+            "text": " and if you want you can add some other functionality to it"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 27.0,
+            "end": 30.0,
+            "text": " but here you have to make the merging functionality"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 30.0,
+            "end": 33.0,
+            "text": " so what you have to do is"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 33.0,
+            "end": 36.0,
+            "text": " let's say you have 7 pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 36.0,
+            "end": 39.0,
+            "text": " so how to merge those 7 pdf files in one pdf"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 39.0,
+            "end": 42.0,
+            "text": " you have to write this program"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 42.0,
+            "end": 45.0,
+            "text": " now you will ask in which order you have to merge"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 45.0,
+            "end": 48.0,
+            "text": " so let's do one thing"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 48.0,
+            "end": 51.0,
+            "text": " we will maintain the alphabetic sorting"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 51.0,
+            "end": 54.0,
+            "text": " and according to that you can do the sorting"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 54.0,
+            "end": 57.0,
+            "text": " but if you want to take a particular type of pdf file"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 57.0,
+            "end": 60.0,
+            "text": " then you can take that too"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 60.0,
+            "end": 63.0,
+            "text": " but for now we will keep this question simple"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 63.0,
+            "end": 66.0,
+            "text": " i want you to explore pypdf"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " which is a very amazing open source"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 69.0,
+            "end": 72.0,
+            "text": " pure python pdf library"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 72.0,
+            "end": 75.0,
+            "text": " you can do splitting, merging, cropping and encrypting pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 75.0,
+            "end": 78.0,
+            "text": " i have used it a lot and i have given projects to many clients"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 78.0,
+            "end": 81.0,
+            "text": " i have earned a lot of money from this library"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 81.0,
+            "end": 84.0,
+            "text": " because when someone has to make a piece of software"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 84.0,
+            "end": 87.0,
+            "text": " and they are only interested in their work"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 87.0,
+            "end": 90.0,
+            "text": " like i had a client"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 90.0,
+            "end": 93.0,
+            "text": " he made a pdf file"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 93.0,
+            "end": 96.0,
+            "text": " it was a big thing for him to merge 3 pdf files"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 96.0,
+            "end": 99.0,
+            "text": " and it happens that if this module is not there"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 99.0,
+            "end": 102.0,
+            "text": " and we write 3-4 lines of code in python"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 102.0,
+            "end": 105.0,
+            "text": " then things become easy for us"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 105.0,
+            "end": 108.0,
+            "text": " but for that person this is a big thing"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 108.0,
+            "end": 111.0,
+            "text": " i make a bat file which invokes my python file"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 111.0,
+            "end": 114.0,
+            "text": " i install python in the client's computer"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 114.0,
+            "end": 117.0,
+            "text": " or i make an api for it"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 117.0,
+            "end": 120.0,
+            "text": " and i host that api on a server"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 120.0,
+            "end": 123.0,
+            "text": " and i tell it that you have to keep this server up"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 123.0,
+            "end": 126.0,
+            "text": " or if you don't want to keep that server up"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 126.0,
+            "end": 129.0,
+            "text": " then i install python in their computer"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 129.0,
+            "end": 132.0,
+            "text": " and make an automated script for it"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 132.0,
+            "end": 135.0,
+            "text": " or there is a thing called portable python"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 135.0,
+            "end": 138.0,
+            "text": " which becomes a whole exe of python"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 138.0,
+            "end": 141.0,
+            "text": " but for now you have to solve this exercise"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 141.0,
+            "end": 144.0,
+            "text": " and whoever solves it i will give him a shoutout"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 144.0,
+            "end": 147.0,
+            "text": " so guys i am making this video from rapnet's mobile app"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 147.0,
+            "end": 150.0,
+            "text": " and i am actually traveling"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 150.0,
+            "end": 153.0,
+            "text": " and the schedule is very busy"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 153.0,
+            "end": 156.0,
+            "text": " but i don't want to miss 100 days of code"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 156.0,
+            "end": 159.0,
+            "text": " so i am making this video from rapnet's mobile app"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 159.0,
+            "end": 162.0,
+            "text": " so guys do explore pypdf"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 162.0,
+            "end": 165.0,
+            "text": " there are things written in its documentation"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 165.0,
+            "end": 168.0,
+            "text": " if you go in its documentation then you will learn a lot of things"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 168.0,
+            "end": 171.0,
+            "text": " i am opening the read the docs of pypdf in my phone"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 171.0,
+            "end": 174.0,
+            "text": " and you can see here"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 174.0,
+            "end": 177.0,
+            "text": " that pypdf2 is a free and open source library"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 177.0,
+            "end": 180.0,
+            "text": " there are many examples in it"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 180.0,
+            "end": 183.0,
+            "text": " so at least merging is a very simple thing"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 183.0,
+            "end": 186.0,
+            "text": " you can solve this question"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 186.0,
+            "end": 189.0,
+            "text": " and i want you to solve it"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 189.0,
+            "end": 192.0,
+            "text": " so guys thank you so much for watching this video"
+        },
+        {
+            "number": "8",
+            "title": "Merge the PDF",
+            "start": 192.0,
+            "end": 195.0,
+            "text": " and i will see you next time"
+        }
+    ],
+    "text": " so guys today is our day 76 and in day 76 i am going to give you an exercise in which you have to manipulate pdf files and you have to do this by using pypdf module so we have a module named pypdf with the help of which you can merge pdf files so let's say i gave you 5-6 pdf files you can merge them in one and if you want you can add some other functionality to it but here you have to make the merging functionality so what you have to do is let's say you have 7 pdf files so how to merge those 7 pdf files in one pdf you have to write this program now you will ask in which order you have to merge so let's do one thing we will maintain the alphabetic sorting and according to that you can do the sorting but if you want to take a particular type of pdf file then you can take that too but for now we will keep this question simple i want you to explore pypdf which is a very amazing open source pure python pdf library you can do splitting, merging, cropping and encrypting pdf files i have used it a lot and i have given projects to many clients i have earned a lot of money from this library because when someone has to make a piece of software and they are only interested in their work like i had a client he made a pdf file it was a big thing for him to merge 3 pdf files and it happens that if this module is not there and we write 3-4 lines of code in python then things become easy for us but for that person this is a big thing i make a bat file which invokes my python file i install python in the client's computer or i make an api for it and i host that api on a server and i tell it that you have to keep this server up or if you don't want to keep that server up then i install python in their computer and make an automated script for it or there is a thing called portable python which becomes a whole exe of python but for now you have to solve this exercise and whoever solves it i will give him a shoutout so guys i am making this video from rapnet's mobile app and i am actually traveling and the schedule is very busy but i don't want to miss 100 days of code so i am making this video from rapnet's mobile app so guys do explore pypdf there are things written in its documentation if you go in its documentation then you will learn a lot of things i am opening the read the docs of pypdf in my phone and you can see here that pypdf2 is a free and open source library there are many examples in it so at least merging is a very simple thing you can solve this question and i want you to solve it so guys thank you so much for watching this video and i will see you next time"
+}

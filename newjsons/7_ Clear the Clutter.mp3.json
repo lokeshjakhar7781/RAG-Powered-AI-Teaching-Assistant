@@ -1,0 +1,117 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 0.0,
+            "end": 12.6,
+            "text": " Guys, today we will see how much is the strength in it. In exercise 7, you have to solve a problem in which you have to clear the clutter spread in a folder. And how will you do this? With the help of OS module."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 12.6,
+            "end": 32.9,
+            "text": " Now I will take you to the computer screen and tell you the exact problem statement. Let's get started. So, in this exercise, what you have to do is write a program with the help of OS module which will clean the clutter in your computer."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 32.9,
+            "end": 45.4,
+            "text": " Now by cleaning the clutter, I mean that let's say you have a folder in which 0.png or random some name.png there are many png files in it. Now you want that as soon as your program runs,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 45.4,
+            "end": 60.4,
+            "text": " all your files will change their names. 0.png, 1.png or you can start with 1.png all the way till n.png where n is the number of png files in that folder. So let's say you have this.png"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 60.4,
+            "end": 72.4,
+            "text": " this is a file. This.png is a file. This.png is a file. Design.png is a file. And let's say you have name.png is a file."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 72.4,
+            "end": 83.4,
+            "text": " So what your program will do is scan all these files and rename them in this way. Rename any file as 1.png. Then after this, rename the other file as 2.png. And in this way, it will clear all the png files"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 83.4,
+            "end": 94.4,
+            "text": " and give such good names. Give this 3.png and give this 4.png. Okay, now you understood what I am trying to say here. Basically, what we have to do is"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 94.4,
+            "end": 106.4,
+            "text": " clear the clutter rename it and make it like this. Now what you have to do is write its function. Don't do it like this. I will write here for example."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 106.4,
+            "end": 121.4,
+            "text": " Write function because your function will take .png as an argument. .png means it will take file format. And when this file format will reach the function, then the function will know which files to rename in this folder. Okay, like if you pass .png to that function,"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 121.4,
+            "end": 134.4,
+            "text": " then it will make all the png files like this. If you do .pdf, then it will make all the pdf files like this. If you do this for webp files, then it will make webp files like this for you."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 134.4,
+            "end": 146.4,
+            "text": " So you will have a very good granular control. You know how you have to change, how you can do it, you will know all this. So write, use the OS model."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 146.4,
+            "end": 160.4,
+            "text": " OS.rename method. I won't give much spoilers of the movie. Watch the movie yourself. Enjoy yourself. I don't want to spoil your fun. Okay, so I will meet you in the solution video. And I will show you the program by solving it there."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 160.4,
+            "end": 171.4,
+            "text": " And this time I am going to give shoutouts in different ways. So it will be a lot of fun. If you have not accessed the playlist yet, then you have to access it. Put a review in the video."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 171.4,
+            "end": 181.4,
+            "text": " Put a review. Put a comment here that how is this course? You have seen so many videos, you know that how did 100 days of code go up to 68 videos? How did you understand?"
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 181.4,
+            "end": 191.4,
+            "text": " How much fun did you have? Write everything. Now if you write, then whoever is new to this course will get a lot of help. That's all for now."
+        },
+        {
+            "number": "7",
+            "title": "Clear the Clutter",
+            "start": 191.4,
+            "end": 201.4,
+            "text": " Thank you so much for watching this video. And I will see you next time. Thank you so much."
+        }
+    ],
+    "text": " Guys, today we will see how much is the strength in it. In exercise 7, you have to solve a problem in which you have to clear the clutter spread in a folder. And how will you do this? With the help of OS module. Now I will take you to the computer screen and tell you the exact problem statement. Let's get started. So, in this exercise, what you have to do is write a program with the help of OS module which will clean the clutter in your computer. Now by cleaning the clutter, I mean that let's say you have a folder in which 0.png or random some name.png there are many png files in it. Now you want that as soon as your program runs, all your files will change their names. 0.png, 1.png or you can start with 1.png all the way till n.png where n is the number of png files in that folder. So let's say you have this.png this is a file. This.png is a file. This.png is a file. Design.png is a file. And let's say you have name.png is a file. So what your program will do is scan all these files and rename them in this way. Rename any file as 1.png. Then after this, rename the other file as 2.png. And in this way, it will clear all the png files and give such good names. Give this 3.png and give this 4.png. Okay, now you understood what I am trying to say here. Basically, what we have to do is clear the clutter rename it and make it like this. Now what you have to do is write its function. Don't do it like this. I will write here for example. Write function because your function will take .png as an argument. .png means it will take file format. And when this file format will reach the function, then the function will know which files to rename in this folder. Okay, like if you pass .png to that function, then it will make all the png files like this. If you do .pdf, then it will make all the pdf files like this. If you do this for webp files, then it will make webp files like this for you. So you will have a very good granular control. You know how you have to change, how you can do it, you will know all this. So write, use the OS model. OS.rename method. I won't give much spoilers of the movie. Watch the movie yourself. Enjoy yourself. I don't want to spoil your fun. Okay, so I will meet you in the solution video. And I will show you the program by solving it there. And this time I am going to give shoutouts in different ways. So it will be a lot of fun. If you have not accessed the playlist yet, then you have to access it. Put a review in the video. Put a review. Put a comment here that how is this course? You have seen so many videos, you know that how did 100 days of code go up to 68 videos? How did you understand? How much fun did you have? Write everything. Now if you write, then whoever is new to this course will get a lot of help. That's all for now. Thank you so much for watching this video. And I will see you next time. Thank you so much."
+}

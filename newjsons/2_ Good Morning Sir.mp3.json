@@ -1,0 +1,145 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 0.0,
+            "end": 16.0,
+            "text": " Today we will see again how much is there in it Because in today's video I am going to give you one more exercise And in this exercise you have to use EFL statements You will know by yourself that exactly what is the practical use of EFL statements We will use a time module"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 16.0,
+            "end": 39.0,
+            "text": " Let's go to the computer screen, I will show you what is this exercise So I have come to my computer screen as you can see And the name of this exercise is Good Morning Sir Yes you heard it right What we have to do is make a python program"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 39.0,
+            "end": 54.0,
+            "text": " Which will greet the user with good morning, good afternoon or good evening Depending upon the time Now we are going to use the time module in this I have given you a link what you have to do It is a very simple thing and many of you will feel that it is cheating"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 54.0,
+            "end": 68.0,
+            "text": " Because what I am going to tell you now will be a very big hint So I would like you to do without it I have given a hint here, I would say don't watch this program Don't watch this program, challenge yourself Challenge yourself that I don't want to watch this program"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 68.0,
+            "end": 84.0,
+            "text": " You don't have to do this, I have to solve the first exercise and post it You have to get up in your own eyes You have to become like this that I have solved the exercise I have solved everything and I have confidence now So you need that feeling, so don't watch the program"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 84.0,
+            "end": 98.0,
+            "text": " The question is you have to write a program According to the time, good morning, good afternoon, good evening Write now, pause the video here and write And then see what I am saying Once your apple is posted, then listen to what I said next"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 98.0,
+            "end": 116.0,
+            "text": " Now those people who are in a little problem and they feel that we don't know the module We don't know anything about pip So now for those people who don't know what it is They need a hint, they are having a problem in solving this problem So for them I tell you, run this sample program"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 116.0,
+            "end": 133.0,
+            "text": " And time module is built in, so we don't need pip Run this sample program, we imported the time module And we printed the timestamps in different ways STRF time is a function that gives us hour and minute Now see here, if you are running this program in rapid, then you will be in the US time zone"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 133.0,
+            "end": 152.0,
+            "text": " Because your apples are running in the US, keep this in mind If you are running it in your local computer, then it will give you all the things according to your local computer Whatever time you get to see, good morning, good afternoon, good evening It will be according to your local time, if you are running this thing in your local computer I will show you an example of this thing"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 152.0,
+            "end": 171.0,
+            "text": " If I write python 3 here, sorry python 3 because I am in mac If I write python 3 here and run this program Or if I come here in VS code And here I do ctrl n and ctrl s and save it as main.py And I paste it by copying it from here"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 171.0,
+            "end": 190.0,
+            "text": " So you guys just see, I am using code runner extension here And what I have to do here, I have to fix it a little bit Because it says no command found python So I will tell you how to fix it You guys go to settings and here you have to go to code runner"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 190.0,
+            "end": 206.0,
+            "text": " Code runner and here in code runner Edit settings.json So here where python is written, I will make it python 3 Let's see where python is written, python-u is written, I will make it python 3-u And this should do the trick"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 206.0,
+            "end": 219.0,
+            "text": " So I will run it now, so see it came here Now it is giving my local time 11.44 So it is giving my local time Now what I am doing here, I am printing hour, minute and seconds In this format that hour will come in place of %h"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 219.0,
+            "end": 236.0,
+            "text": " Minute will come in place of %m and second will come in place of %s It will give me only hour and it will give me only minute Obviously I am using strf time and it will give me second I hope you guys understood this thing How will we get minute, hour, seconds"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 236.0,
+            "end": 250.0,
+            "text": " And if you want to know more then click on this link And you will get to know more about this It is a very simple thing, there is no big rocket science Now I am going to give the biggest hint After this, anyone can solve it, anyone can solve it"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 250.0,
+            "end": 262.0,
+            "text": " If you want to listen, if you are stuck then only listen Otherwise you guys do rappel post then only listen Then there is no problem in listening That is the biggest hint I am going to say That you use int"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 262.0,
+            "end": 276.0,
+            "text": " Because this will not be your integer If you are doing something like greater than or less than Then you will not get to see greater than or less than with string You will not be able to do it, it will be problematic There is a little thing, so you have to convert it into integer"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 276.0,
+            "end": 287.0,
+            "text": " So you have to do it like this Int of, this was a very big hint Because it was the catch of the whole question You see here I have made it int So now it is showing me in integer"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 287.0,
+            "end": 300.0,
+            "text": " I will set the controls so that you guys are not disturbed And if you have not accessed this playlist yet Then do access it, that's all for now in this video Thank you so much guys for watching this video And I will see you next time"
+        },
+        {
+            "number": "2",
+            "title": "Good Morning Sir",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " Thanks for watching"
+        }
+    ],
+    "text": " Today we will see again how much is there in it Because in today's video I am going to give you one more exercise And in this exercise you have to use EFL statements You will know by yourself that exactly what is the practical use of EFL statements We will use a time module Let's go to the computer screen, I will show you what is this exercise So I have come to my computer screen as you can see And the name of this exercise is Good Morning Sir Yes you heard it right What we have to do is make a python program Which will greet the user with good morning, good afternoon or good evening Depending upon the time Now we are going to use the time module in this I have given you a link what you have to do It is a very simple thing and many of you will feel that it is cheating Because what I am going to tell you now will be a very big hint So I would like you to do without it I have given a hint here, I would say don't watch this program Don't watch this program, challenge yourself Challenge yourself that I don't want to watch this program You don't have to do this, I have to solve the first exercise and post it You have to get up in your own eyes You have to become like this that I have solved the exercise I have solved everything and I have confidence now So you need that feeling, so don't watch the program The question is you have to write a program According to the time, good morning, good afternoon, good evening Write now, pause the video here and write And then see what I am saying Once your apple is posted, then listen to what I said next Now those people who are in a little problem and they feel that we don't know the module We don't know anything about pip So now for those people who don't know what it is They need a hint, they are having a problem in solving this problem So for them I tell you, run this sample program And time module is built in, so we don't need pip Run this sample program, we imported the time module And we printed the timestamps in different ways STRF time is a function that gives us hour and minute Now see here, if you are running this program in rapid, then you will be in the US time zone Because your apples are running in the US, keep this in mind If you are running it in your local computer, then it will give you all the things according to your local computer Whatever time you get to see, good morning, good afternoon, good evening It will be according to your local time, if you are running this thing in your local computer I will show you an example of this thing If I write python 3 here, sorry python 3 because I am in mac If I write python 3 here and run this program Or if I come here in VS code And here I do ctrl n and ctrl s and save it as main.py And I paste it by copying it from here So you guys just see, I am using code runner extension here And what I have to do here, I have to fix it a little bit Because it says no command found python So I will tell you how to fix it You guys go to settings and here you have to go to code runner Code runner and here in code runner Edit settings.json So here where python is written, I will make it python 3 Let's see where python is written, python-u is written, I will make it python 3-u And this should do the trick So I will run it now, so see it came here Now it is giving my local time 11.44 So it is giving my local time Now what I am doing here, I am printing hour, minute and seconds In this format that hour will come in place of %h Minute will come in place of %m and second will come in place of %s It will give me only hour and it will give me only minute Obviously I am using strf time and it will give me second I hope you guys understood this thing How will we get minute, hour, seconds And if you want to know more then click on this link And you will get to know more about this It is a very simple thing, there is no big rocket science Now I am going to give the biggest hint After this, anyone can solve it, anyone can solve it If you want to listen, if you are stuck then only listen Otherwise you guys do rappel post then only listen Then there is no problem in listening That is the biggest hint I am going to say That you use int Because this will not be your integer If you are doing something like greater than or less than Then you will not get to see greater than or less than with string You will not be able to do it, it will be problematic There is a little thing, so you have to convert it into integer So you have to do it like this Int of, this was a very big hint Because it was the catch of the whole question You see here I have made it int So now it is showing me in integer I will set the controls so that you guys are not disturbed And if you have not accessed this playlist yet Then do access it, that's all for now in this video Thank you so much guys for watching this video And I will see you next time Thanks for watching"
+}

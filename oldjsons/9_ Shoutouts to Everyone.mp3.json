@@ -1,0 +1,467 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 0.0,
+            "end": 2.8000000000000003,
+            "text": " Guys, today's exercise is called shoutouts to everyone"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 2.8000000000000003,
+            "end": 5.0,
+            "text": " and I'll tell you why I said that"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 5.0,
+            "end": 8.0,
+            "text": " Everything will be clear after seeing the question of this exercise"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 8.0,
+            "end": 10.4,
+            "text": " Let's go to the computer screen and let's get started"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 10.4,
+            "end": 19.6,
+            "text": " Intro"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 19.6,
+            "end": 23.6,
+            "text": " So guys, I'm very excited about today's question"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 23.6,
+            "end": 27.8,
+            "text": " because it's a big thing that I can't give shoutouts to everyone"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 27.8,
+            "end": 31.2,
+            "text": " I don't like it at all when I can't give shoutouts to people"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 31.2,
+            "end": 34.8,
+            "text": " because I know that everyone works hard and can't get a shoutout"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 34.8,
+            "end": 38.8,
+            "text": " So what I did today is that I thought why not write a program"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 38.8,
+            "end": 41.4,
+            "text": " with which we can give shoutouts to everyone"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 41.4,
+            "end": 43.8,
+            "text": " So what you have to do in this exercise, I'll tell you"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 43.8,
+            "end": 47.8,
+            "text": " You have to do your work and then I'll show you my magic in its solution"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 47.8,
+            "end": 50.6,
+            "text": " I'll give shoutouts to everyone with the help of this program, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 50.6,
+            "end": 53.8,
+            "text": " So see what we have to do, you have to write a program"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 53.8,
+            "end": 57.8,
+            "text": " which will pronounce some names using Win32 API"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 57.8,
+            "end": 61.8,
+            "text": " Now I'm in Mac, you may be in Linux or any other operating system"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 61.8,
+            "end": 66.8,
+            "text": " You have to figure out some other way to do it, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 66.8,
+            "end": 69.8,
+            "text": " But in Windows, I'll tell you that"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 69.8,
+            "end": 74.8,
+            "text": " Sapi, Voice, Windows, Python, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 74.8,
+            "end": 76.8,
+            "text": " Why did I write Sapi, Voice, Windows, Python?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 76.8,
+            "end": 81.8,
+            "text": " What happens is that Python text to speech, one minute"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 81.8,
+            "end": 87.8,
+            "text": " It becomes very easy to do text to speech, I'll show you"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 87.8,
+            "end": 89.8,
+            "text": " You will get its program, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 89.8,
+            "end": 92.8,
+            "text": " There is a package called PyWin32, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 92.8,
+            "end": 96.8,
+            "text": " And with its help, you can pronounce it like this"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 96.8,
+            "end": 101.8,
+            "text": " And what will happen is that you can pronounce it with the help of Windows built-in voice"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 101.8,
+            "end": 103.8,
+            "text": " So you will figure out all this yourself, I won't tell you"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 103.8,
+            "end": 105.8,
+            "text": " what to do from where, what not to do"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 105.8,
+            "end": 110.8,
+            "text": " Win32com.client, what it does, what it doesn't do, you have to see all this"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 110.8,
+            "end": 114.8,
+            "text": " And after figuring it out, you have to tell me, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 114.8,
+            "end": 117.8,
+            "text": " That whether you were able to make this program or not"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 117.8,
+            "end": 121.8,
+            "text": " So here, once L is equal to Rahul, Nishant, Harry is written"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 121.8,
+            "end": 125.8,
+            "text": " So your program will pronounce something like this"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 125.8,
+            "end": 128.8,
+            "text": " Shoutout to Rahul, Shoutout to Nishant, Shoutout to Harry"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 128.8,
+            "end": 130.8,
+            "text": " By doing this, shoutout will be given to everyone"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 130.8,
+            "end": 133.8,
+            "text": " I have to give this list manually, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 133.8,
+            "end": 136.8,
+            "text": " So I have to put this list, but then the shoutouts"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 136.8,
+            "end": 140.8,
+            "text": " will automatically give it to everyone, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 140.8,
+            "end": 142.8,
+            "text": " So shoutouts will be given to everyone this time"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 142.8,
+            "end": 145.8,
+            "text": " So don't miss anyone and I will put its solution very soon"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 145.8,
+            "end": 149.8,
+            "text": " I will put the solution soon because everyone will get a shoutout in this"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 149.8,
+            "end": 152.8,
+            "text": " So I will put the solution soon, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 152.8,
+            "end": 154.8,
+            "text": " So you must post your solution for this"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 154.8,
+            "end": 156.8,
+            "text": " And I hope everyone understood the question"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 156.8,
+            "end": 160.8,
+            "text": " One more thing to do, you have to solve this exercise"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 160.8,
+            "end": 162.8,
+            "text": " Along with that, go to the first video"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 162.8,
+            "end": 164.8,
+            "text": " First of all, access the playlist and go to the first video"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 164.8,
+            "end": 168.8,
+            "text": " What you have to do is write a review here, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 168.8,
+            "end": 171.8,
+            "text": " You have to write a review, give 5 stars"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 171.8,
+            "end": 173.8,
+            "text": " How are you feeling?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 173.8,
+            "end": 176.8,
+            "text": " Because now we are almost going towards completion of 100 days"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 176.8,
+            "end": 181.8,
+            "text": " And I am not saying that your learning of Python will end"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 181.8,
+            "end": 184.8,
+            "text": " You will keep learning, even I keep learning 50 things in today's date"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 184.8,
+            "end": 188.8,
+            "text": " And I am open to learning and that increases your skills the most"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 188.8,
+            "end": 190.8,
+            "text": " When you are open to learning things, okay?"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 191.8,
+            "end": 193.8,
+            "text": " So you will keep learning"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 193.8,
+            "end": 195.8,
+            "text": " But now you tell me how you feel in this course"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 195.8,
+            "end": 198.8,
+            "text": " Write a review for those people who are going to start this course"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 198.8,
+            "end": 202.8,
+            "text": " So that they don't have to think at all the second time before coming to this course"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 202.8,
+            "end": 204.8,
+            "text": " So that's it for now in this video guys"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 204.8,
+            "end": 206.8,
+            "text": " I am waiting for your solution"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 206.8,
+            "end": 209.8,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 220.8,
+            "end": 222.8,
+            "text": " Thank you for watching it"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 222.8,
+            "end": 224.8,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "9",
+            "title": "Shoutouts to Everyone",
+            "start": 224.8,
+            "end": 226.8,
+            "text": " Bye"
+        }
+    ],
+    "text": " Guys, today's exercise is called shoutouts to everyone and I'll tell you why I said that Everything will be clear after seeing the question of this exercise Let's go to the computer screen and let's get started Intro So guys, I'm very excited about today's question because it's a big thing that I can't give shoutouts to everyone I don't like it at all when I can't give shoutouts to people because I know that everyone works hard and can't get a shoutout So what I did today is that I thought why not write a program with which we can give shoutouts to everyone So what you have to do in this exercise, I'll tell you You have to do your work and then I'll show you my magic in its solution I'll give shoutouts to everyone with the help of this program, okay? So see what we have to do, you have to write a program which will pronounce some names using Win32 API Now I'm in Mac, you may be in Linux or any other operating system You have to figure out some other way to do it, okay? But in Windows, I'll tell you that Sapi, Voice, Windows, Python, okay? Why did I write Sapi, Voice, Windows, Python? What happens is that Python text to speech, one minute It becomes very easy to do text to speech, I'll show you You will get its program, okay? There is a package called PyWin32, okay? And with its help, you can pronounce it like this And what will happen is that you can pronounce it with the help of Windows built-in voice So you will figure out all this yourself, I won't tell you what to do from where, what not to do Win32com.client, what it does, what it doesn't do, you have to see all this And after figuring it out, you have to tell me, okay? That whether you were able to make this program or not So here, once L is equal to Rahul, Nishant, Harry is written So your program will pronounce something like this Shoutout to Rahul, Shoutout to Nishant, Shoutout to Harry By doing this, shoutout will be given to everyone I have to give this list manually, okay? So I have to put this list, but then the shoutouts will automatically give it to everyone, okay? So shoutouts will be given to everyone this time So don't miss anyone and I will put its solution very soon I will put the solution soon because everyone will get a shoutout in this So I will put the solution soon, okay? So you must post your solution for this And I hope everyone understood the question One more thing to do, you have to solve this exercise Along with that, go to the first video First of all, access the playlist and go to the first video What you have to do is write a review here, okay? You have to write a review, give 5 stars How are you feeling? Because now we are almost going towards completion of 100 days And I am not saying that your learning of Python will end You will keep learning, even I keep learning 50 things in today's date And I am open to learning and that increases your skills the most When you are open to learning things, okay? So you will keep learning But now you tell me how you feel in this course Write a review for those people who are going to start this course So that they don't have to think at all the second time before coming to this course So that's it for now in this video guys I am waiting for your solution And I will see you next time Thank you for watching it And I will see you next time Bye"
+}
