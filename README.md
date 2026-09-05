@@ -248,8 +248,8 @@ Questions unrelated to the course are not answered by the system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/RAG-AI-Teaching-Assistant.git
-cd RAG-AI-Teaching-Assistant
+git clone https://github.com/lokeshjakhar7781/RAG-Powered-AI-Teaching-Assistant.git
+cd RAG-Powered-AI-Teaching-Assistant
 ```
 
 ### 2. Install Dependencies
